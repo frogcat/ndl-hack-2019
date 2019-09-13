@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『御船』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 御船 【測量時期】 明治34年測圖/大正15年修正測圖/昭和6年部分修正測圖 【発行時期】  【記号】 熊本四号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/522'>『御船』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/522/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.7016182845261,
+    32.64841331215563,
+    131.0284582170257,
+    32.86228207362548
+  ]
+}

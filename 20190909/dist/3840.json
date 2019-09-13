@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "38_SILWA BAHARI",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3840'>38_SILWA BAHARI</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3840/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    32.62444721018454,
+    24.482693563896905,
+    33.231340753644815,
+    24.84517761787718
+  ]
+}

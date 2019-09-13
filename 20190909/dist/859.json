@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『境港』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 境 【測量時期】 明治32年測図/昭和9年第2回修正、測図の縮図 【発行時期】 昭和12年5月発行 【記号】 松江15号（共8面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/859'>『境港』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/859/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    132.94963133455488,
+    35.48265297766871,
+    133.28385800172947,
+    35.69294108914308
+  ]
+}

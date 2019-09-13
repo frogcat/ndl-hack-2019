@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『熊本』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 熊本 【測量時期】 明治34年測圖/大正15年修正測圖/昭和6年部分修正測圖 【発行時期】  【記号】 熊本八号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/521'>『熊本』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/521/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.45239415203332,
+    32.64514422122421,
+    130.77858194241253,
+    32.8655506142257
+  ]
+}

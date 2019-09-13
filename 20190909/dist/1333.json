@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『銭函』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 銭函 【測量時期】 大正5年測圖之縮圖/大正6年測圖/昭和10年修正測圖及修正測圖之縮圖 【発行時期】  【記号】 札幌十四号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1333'>『銭函』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1333/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.92424179465624,
+    42.98248873850946,
+    141.2968602675296,
+    43.19088326437176
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "6_EL GHAYATA",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3827'>6_EL GHAYATA</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3827/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    29.582382743411102,
+    30.622414068816898,
+    30.219633796257046,
+    30.98976658404084
+  ]
+}

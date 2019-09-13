@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "Bogotá 1614",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3897'>Bogotá 1614</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3897/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    -74.3774115439647,
+    4.507217911010343,
+    -74.05729184859979,
+    4.794902147163598
+  ]
+}

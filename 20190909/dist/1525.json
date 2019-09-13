@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『高雄』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1525'>『高雄』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1525/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    119.93828172785145,
+    21.887076959213807,
+    121.10225508432583,
+    22.745581084819555
+  ]
+}

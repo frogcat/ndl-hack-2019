@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『高松』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 高松 【測量時期】 明治30年測図の縮図/昭和3年修正、測図の縮図/昭和7年鉄道補入、測図の縮図 【発行時期】  【記号】 徳島14号（共14面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/692'>『高松』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/692/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    133.95184359526777,
+    34.31771298302692,
+    134.2792695123478,
+    34.52571911417234
+  ]
+}

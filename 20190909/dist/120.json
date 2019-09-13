@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "高砂",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/120'>高砂</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/120/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    134.6964019220113,
+    34.6455506134238,
+    135.02902599685538,
+    34.864560946287035
+  ]
+}

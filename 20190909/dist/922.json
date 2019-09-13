@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『潮来』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 潮来 【測量時期】 明治36年測圖/昭和6年第二回修正測圖 【発行時期】 昭和11年発行 【記号】 佐倉五号 【測量機関】 大日本帝國陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/922'>『潮来』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/922/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.4591247550998,
+    35.814855051302686,
+    140.79220063622674,
+    36.03203496386934
+  ]
+}

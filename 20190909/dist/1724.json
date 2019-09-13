@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "改正青山長者丸辺図",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1724'>改正青山長者丸辺図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1724/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.70531189421112,
+    35.65649689516712,
+    139.7275799107653,
+    35.68962647549924
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『延岡』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1552'>『延岡』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1552/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.82745656378728,
+    31.91716329331507,
+    132.09515127736256,
+    32.76821849165146
+  ]
+}

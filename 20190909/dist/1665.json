@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "元治新撰/皇都細見図",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1665'>元治新撰/皇都細見図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1665/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.72374122405827,
+    34.96577854445869,
+    135.78929384417003,
+    35.06249882137204
+  ]
+}

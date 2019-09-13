@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "37_IDFU",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3839'>37_IDFU</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3839/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    32.48349940713646,
+    24.838269050560207,
+    33.08528996103607,
+    25.212091391391116
+  ]
+}

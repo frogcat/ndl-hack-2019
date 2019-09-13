@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『神戸』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 神戸 【測量時期】 明治43年測図/大正12年修正、測図の縮図/昭和10年第2回修正 【発行時期】  【記号】 京都及大阪16号（共16面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/739'>『神戸』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/739/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    134.9491764341865,
+    34.6453129147508,
+    135.28043710612752,
+    34.86272031067915
+  ]
+}

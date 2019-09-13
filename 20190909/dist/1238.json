@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『鰺ヶ沢』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 鯵ヶ沢 【測量時期】 大正3年測図の縮図/昭和14年修正、測図の縮図 【発行時期】  【記号】 青森16号（共14面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1238'>『鰺ヶ沢』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1238/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.93535896399834,
+    40.65048293027896,
+    140.2948169657131,
+    40.85707863745007
+  ]
+}

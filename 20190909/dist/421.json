@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『伊江島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 伊江島 【測量時期】 大正10年測圖 【発行時期】 大正12年発行 【記号】 沖縄郡島九号 【測量機関】 陸地測量部・参謀本部 【備考】 軍事極祕（戦地ニ在りテハ軍事祕密トス）",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/421'>『伊江島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/421/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    127.7201504377726,
+    26.643004693818067,
+    128.03402205968635,
+    26.86787897381329
+  ]
+}

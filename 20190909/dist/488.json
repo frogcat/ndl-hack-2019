@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『妻』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 妻 【測量時期】 明治35年測図/昭和7年要部修正/昭和10年部分修正/昭和28年応急修正 【発行時期】  【記号】 延岡12号（共13面） 【測量機関】 国土地理院 【備考】 応急修正版",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/488'>『妻』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/488/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    131.2065277044909,
+    31.980862255638037,
+    131.53040266439825,
+    32.195040368035535
+  ]
+}

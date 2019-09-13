@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『別海』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 西別 【測量時期】 大正11年測圖 【発行時期】  【記号】 標津十六号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1378'>『別海』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1378/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    144.93686422563377,
+    43.3173470973054,
+    145.30905562214286,
+    43.52519362269609
+  ]
+}

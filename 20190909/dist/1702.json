@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "下京区第拾壱組四條町全図",
+  "description": "京都府立京都学・歴彩館所蔵\r\n下京区地籍図",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1702'>下京区第拾壱組四條町全図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1702/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.75566086588907,
+    35.0018432821016,
+    135.7575721756694,
+    35.004218259699044
+  ]
+}

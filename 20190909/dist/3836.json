@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "33_NAG HAMMADI",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3836'>33_NAG HAMMADI</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3836/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    31.752865133945594,
+    25.935991697947333,
+    32.35282329945158,
+    26.299736826159844
+  ]
+}

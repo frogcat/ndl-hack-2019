@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『知来別』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 知来別 【測量時期】 大正12年測図 【発行時期】 大正14年2月発行 【記号】 聲問近傍1号（共7面） 【測量機関】 陸地測量部・参謀本部 【備考】 宗谷4号東部（共7面）　仮製版　軍事極秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1496'>『知来別』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1496/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.95207981479732,
+    45.316151063593836,
+    142.34918652773402,
+    45.5288278682979
+  ]
+}

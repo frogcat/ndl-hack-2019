@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『神門』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 神門 【測量時期】 明治35年測図/昭和7年要部修正 【発行時期】  【記号】 延岡10号（共13面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/504'>『神門』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/504/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    131.2068531485274,
+    32.31554322511667,
+    131.5305339398129,
+    32.52678350521124
+  ]
+}

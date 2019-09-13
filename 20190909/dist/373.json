@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "洛中絵図1",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/373'>洛中絵図1</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/373/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.72273123033133,
+    34.97108373492866,
+    135.75839901235167,
+    34.99521047729946
+  ]
+}

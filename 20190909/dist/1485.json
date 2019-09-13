@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『上猿払』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 上猿払 【測量時期】 大正12年測図 【発行時期】 大正13年9月発行 【記号】 枝幸14号（共12面） 【測量機関】 大日本帝国陸地測量部 【備考】 仮製版　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1485'>『上猿払』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1485/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.93695841662733,
+    44.98471833786078,
+    142.2918241751521,
+    45.191538688301556
+  ]
+}

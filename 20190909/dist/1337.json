@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『石狩鹿島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 大夕張 【測量時期】 大正8年測図 【発行時期】 大正10年6月発行 【記号】 夕張獄14号（共16面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1337'>『石狩鹿島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1337/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.9366997567101,
+    42.984620006929035,
+    142.2821571814037,
+    43.19056577934252
+  ]
+}

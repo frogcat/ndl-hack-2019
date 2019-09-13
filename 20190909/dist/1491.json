@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『沼川』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 沼川 【測量時期】 大正12年測図 【発行時期】 昭和21年5月発行 【記号】 天塩1号（共11面） 【測量機関】 内務省地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1491'>『沼川』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1491/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.68066739199165,
+    45.14794810711196,
+    142.06974506059424,
+    45.362462669501845
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『鉾田』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 鉾田 【測量時期】 明治36年測図/昭和4年修正 【発行時期】 昭和21年10月発行 【記号】 水戸8号（共12面） 【測量機関】 内務省地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/943'>『鉾田』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/943/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.457514255053,
+    35.977453174713226,
+    140.79740604071173,
+    36.19688196344933
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "天保四年癸巳春改正新板京都絵図",
+  "description": "gisday 2019",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3865'>天保四年癸巳春改正新板京都絵図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3865/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.72704207623602,
+    34.961404813801494,
+    135.79316008526143,
+    35.055000880269056
+  ]
+}

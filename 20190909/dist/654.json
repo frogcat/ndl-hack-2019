@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『川島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 川島 【測量時期】 明治29年測図/大正6年測図の縮図/昭和9年第2回修正、測図の縮図 【発行時期】  【記号】 徳島12号（共14面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/654'>『川島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/654/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    134.20546147054688,
+    33.98537335876166,
+    134.53098570139366,
+    34.192328588415315
+  ]
+}

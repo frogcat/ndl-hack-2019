@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『倉橋島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 倉橋島 【測量時期】 明治32年測図/大正14年修正 【発行時期】  【記号】 呉要塞近傍6号（共15面） 【測量機関】 陸地測量部・参謀本部 【備考】 広島8号（共16面）　軍事極秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/647'>『倉橋島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/647/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    132.46118617258796,
+    33.98248587136208,
+    132.78873834133051,
+    34.193742985335525
+  ]
+}

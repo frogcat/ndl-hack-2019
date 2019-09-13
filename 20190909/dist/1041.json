@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『白河』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 白河 【測量時期】 明治42年測図/昭和4年修正/昭和7年測図の縮図/昭和8年部分修正 【発行時期】 昭和22年4月発行 【記号】 白河14号（共17面） 【測量機関】 内務省地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1041'>『白河』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1041/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.94557372646258,
+    36.98508964358914,
+    140.2855270518658,
+    37.1937738631436
+  ]
+}

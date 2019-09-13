@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『六郷』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 六郷 【測量時期】 大正5年測図 【発行時期】 昭和16年10月発行 【記号】 秋田8号 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1177'>『六郷』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1177/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.43869571533443,
+    39.31770338811064,
+    140.78802271740014,
+    39.52565985420033
+  ]
+}

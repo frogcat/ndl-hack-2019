@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『五百石』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 五百石 【測量時期】 明治44年測図/昭和5年修正 【発行時期】 昭和8年3月発行 【記号】 高山9号（共16面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/982'>『五百石』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/982/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    137.20188558526954,
+    36.487115142576314,
+    137.53986139135628,
+    36.69361911085825
+  ]
+}

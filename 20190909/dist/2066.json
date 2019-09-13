@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "Zoho Osaka-fu kanka saiken shinzu.",
+  "description": "【Courtesy of the C. V. Starr East Asian Library University of California, Berkeley】  Mounted cover title. Copperplate print, col. In Japanese. Relief shown by hachures. Includes distance chart, points of interest, products in Osaka and legend. Folded 19 x 13 cm. East Asian Library call number: G51.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/2066'>Zoho Osaka-fu kanka saiken shinzu.</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/2066/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.4174709383727,
+    34.61948116270431,
+    135.53821253550797,
+    34.74867988909325
+  ]
+}

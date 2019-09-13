@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "本志らへ元治元子年京大焼之図",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/138'>本志らへ元治元子年京大焼之図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/138/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.7404734419216,
+    34.97809974798368,
+    135.7812535996839,
+    35.02665907954547
+  ]
+}

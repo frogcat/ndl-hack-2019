@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『陸中大野』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 階上岳 【測量時期】 大正3年測図/大正14年鉄道補入 【発行時期】 昭和2年1月発行 【記号】 八戸6号（共15面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1220'>『陸中大野』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1220/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.43520056032702,
+    40.14909699379773,
+    141.78852802519359,
+    40.35746254820523
+  ]
+}

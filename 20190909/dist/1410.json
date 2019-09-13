@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『武佐岳』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 武佐岳 【測量時期】 大正13年測圖/昭和19年部分修正測圖 【発行時期】  【記号】 斜里二号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1410'>『武佐岳』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1410/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    144.6878210265921,
+    43.650698477479736,
+    145.0628362704386,
+    43.85635353680393
+  ]
+}

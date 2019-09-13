@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "名所手引/京図鑑綱目",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/202'>名所手引/京図鑑綱目</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/202/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.70841205732157,
+    34.974549392222826,
+    135.80010738454973,
+    35.04373647560274
+  ]
+}

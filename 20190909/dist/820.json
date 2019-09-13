@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『瀬戸』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 瀬戸 【測量時期】 明治24年測図/大正9年修正/昭和5年鉄道補入 【発行時期】 昭和7年3月発行 【記号】 豊橋13号（共16面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/820'>『瀬戸』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/820/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    136.94382982886285,
+    35.14299545117431,
+    137.28580031100293,
+    35.36885624083025
+  ]
+}

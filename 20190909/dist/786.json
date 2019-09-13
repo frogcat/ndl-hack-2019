@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『園部』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 園部 【測量時期】 明治26年測圖/大正9年修正測圖 【発行時期】  【記号】 京都及大阪十号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/786'>『園部』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/786/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.1983521258939,
+    34.980731209848365,
+    135.5283282571511,
+    35.197902053254545
+  ]
+}

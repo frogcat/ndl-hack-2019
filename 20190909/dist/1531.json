@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『嘉義』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1531'>『嘉義』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1531/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    119.91748971766589,
+    23.244300959487763,
+    121.08371294060467,
+    24.09732554797804
+  ]
+}

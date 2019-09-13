@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『大屋市場』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 大屋市場 【測量時期】 明治31年測圖/昭和7年要部修正測圖 【発行時期】  【記号】 姫路五号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/810'>『大屋市場』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/810/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    134.44999133544562,
+    35.148614888930176,
+    134.78282587352942,
+    35.35850935604916
+  ]
+}

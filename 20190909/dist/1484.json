@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『豊富』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 豊富 【測量時期】 大正12年測図/昭和3年鉄道補入 【発行時期】 昭和5年3月発行 【記号】 天塩2号（共9面） 【測量機関】 大日本帝国陸地測量部 【備考】 仮製版　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1484'>『豊富』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1484/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.6864095894612,
+    44.98457090067249,
+    142.0410900356265,
+    45.190058089908646
+  ]
+}

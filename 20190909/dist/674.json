@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『高松南部』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 志度 【測量時期】 明治29年測図/明治30年測図の縮図/昭和3年修正、測図の縮図/昭和7年鉄道補入、測図の縮図 【発行時期】  【記号】 徳島15号（共14面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/674'>『高松南部』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/674/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    133.9533179106185,
+    34.15042689268743,
+    134.28263085030142,
+    34.35961146432179
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『北川』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 北川 【測量時期】 明治40年測圖/昭和8年修正測圖 【発行時期】  【記号】 剣山十四号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/623'>『北川』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/623/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    133.9526001354428,
+    33.648580284062845,
+    134.28183605032945,
+    33.85914265765654
+  ]
+}

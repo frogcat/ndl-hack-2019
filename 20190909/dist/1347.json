@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『霧多布』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 霧多布 【測量時期】 大正11年測図 【発行時期】 昭和11年11月発行 【記号】 根室近傍7号（共11面） 【測量機関】 参謀本部・陸地測量部 【備考】 根室14号（共5面）　仮製版　軍事極秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1347'>『霧多布』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1347/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    144.9437403547399,
+    42.98378347990455,
+    145.3525870615444,
+    43.20622096848666
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『天塩』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 天塩 【測量時期】 大正12年測図 【発行時期】 大正13年3月発行 【記号】 天塩7号（共9面） 【測量機関】 大日本帝国陸地測量部 【備考】 仮製版　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1476'>『天塩』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1476/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.42094300955995,
+    44.81724696488328,
+    141.80567886538145,
+    45.028954992952414
+  ]
+}

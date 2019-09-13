@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『渡名喜島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 渡名喜島 【測量時期】 大正10年測図 【発行時期】 昭和11年発行 【記号】 沖縄群島20号 【測量機関】 陸地測量部・参謀本部 【備考】 那覇14号",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/415'>『渡名喜島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/415/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    126.97175910027498,
+    26.308819131963393,
+    127.28070184871841,
+    26.53070809747679
+  ]
+}

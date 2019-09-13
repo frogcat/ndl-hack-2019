@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『佐原』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 佐原 【測量時期】 明治36年測量、測図の縮図/昭和4年修正、測図の縮図/昭和9年第2回修正 【発行時期】 昭和22年1月発行 【記号】 佐倉9号（共12面） 【測量機関】 内務省地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/921'>『佐原』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/921/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.19998692211706,
+    35.81799890165391,
+    140.53394955633362,
+    36.02707027942535
+  ]
+}

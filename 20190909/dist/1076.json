@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『馬緤』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 馬緤 【測量時期】 明治43年測図/昭和9年修正 【発行時期】 昭和22年3月発行 【記号】 珠洲岬15号（共4面） 【測量機関】 内務省地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1076'>『馬緤』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1076/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    136.94006444969986,
+    37.47779598928086,
+    137.28771427025322,
+    37.69775221035638
+  ]
+}

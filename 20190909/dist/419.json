@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『中尾次』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 仲尾次 【測量時期】 大正10年測圖 【発行時期】 大正12年発行 【記号】 沖縄郡島六号 【測量機関】 陸地測量部・参謀本部 【備考】 軍事極祕（戦地ニ在りテハ軍事祕密トス）",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/419'>『中尾次』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/419/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    127.97133194777282,
+    26.475684795555015,
+    128.28284726463397,
+    26.700529337571243
+  ]
+}

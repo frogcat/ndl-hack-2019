@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『屋久島』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1549'>『屋久島』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1549/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    129.91287776286185,
+    29.919681145150044,
+    131.15005005728733,
+    30.76527523269793
+  ]
+}

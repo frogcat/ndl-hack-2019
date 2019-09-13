@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『留寿都』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 留寿都 【測量時期】 大正6年測圖/昭和6年鐡道補入 【発行時期】  【記号】 岩内四号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1304'>『留寿都』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1304/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.67500935745537,
+    42.6446149208802,
+    141.04776130824231,
+    42.86354246096551
+  ]
+}

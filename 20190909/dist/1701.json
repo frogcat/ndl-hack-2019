@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "下京第十一組袋屋町全図",
+  "description": "京都府立京都学・歴彩館所蔵\r\n下京区地籍図\r\n※現町名：船鉾町",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1701'>下京第十一組袋屋町全図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1701/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.7556193757462,
+    35.00070916389398,
+    135.75764889300223,
+    35.003044117253864
+  ]
+}

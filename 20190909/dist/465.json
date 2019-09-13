@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『手打』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 青瀬 【測量時期】 明治34年測図/昭和11年修正 【発行時期】  【記号】 甑島6号 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/465'>『手打』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/465/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    129.45301518493636,
+    31.65113707677778,
+    129.7762295178076,
+    31.86216306200802
+  ]
+}

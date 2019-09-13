@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『柿崎』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 柿崎 【測量時期】 明治44年測図/昭和5年修正 【発行時期】 昭和8年8月発行 【記号】 高田9号（共15面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1048'>『柿崎』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1048/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    138.19554229856647,
+    37.152943213323326,
+    138.53223946049584,
+    37.361193026633714
+  ]
+}

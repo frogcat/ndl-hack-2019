@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "増補再板京大絵図",
+  "description": "No.: arcBK02-0123 Nickname: 資料名: 増補再板京大絵図 成立・出版年:寛保０１1741 出版地:京都 出版者:林　吉永 所蔵:立命館ARC21COE",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1655'>増補再板京大絵図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1655/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.71800869065387,
+    35.00481737498901,
+    135.79884900841074,
+    35.05678423930011
+  ]
+}

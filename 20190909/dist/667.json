@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『厳島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 厳島 【測量時期】 明治27年測図/明治32年測図の縮図/大正14年修正、測図の縮図/昭和7年鉄道補入、測図の縮図 【発行時期】 昭和21年8月発行 【記号】 広島11号（共16面） 【測量機関】 内務省地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/667'>『厳島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/667/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    132.21788921656824,
+    34.1495206532674,
+    132.54570939812325,
+    34.36422069598817
+  ]
+}

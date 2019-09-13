@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『松阪』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 松阪 【測量時期】 明治25年測図の縮図/昭和12年第2回修正、測図の縮図 【発行時期】 昭和12年10月発行 【記号】 宇治山田5号（共14面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/716'>『松阪』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/716/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    136.44930334533487,
+    34.47714682678862,
+    136.78135587526964,
+    34.699105918329245
+  ]
+}

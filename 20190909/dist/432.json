@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『西古見』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 西古見 【測量時期】 大正8年測圖 【発行時期】 大正10年発行 【記号】 奄美大島要塞近傍十三号 【測量機関】 陸地測量部・参謀本部 【備考】 軍事極祕（戦地ニ在りテハ軍事祕密トス）",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/432'>『西古見』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/432/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    128.96492692837268,
+    28.142716291113206,
+    129.2839458728299,
+    28.370303272498127
+  ]
+}

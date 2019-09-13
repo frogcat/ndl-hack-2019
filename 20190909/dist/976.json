@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『真岡』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 真岡 【測量時期】 明治38年測図/大正4年修正/大正15年鉄道補入 【発行時期】  【記号】 水戸14号（共12面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/976'>『真岡』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/976/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.95737337340205,
+    36.3148927434565,
+    140.28764131420618,
+    36.54186736662116
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『藤原』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 藤原 【測量時期】 大正1年測図/昭和6年要部修正 【発行時期】 昭和8年8月発行 【記号】 日光15号（共16面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1022'>『藤原』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1022/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    138.9464754121002,
+    36.817329976587494,
+    139.2856766217571,
+    37.02413944271307
+  ]
+}

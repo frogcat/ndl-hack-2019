@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『広尾』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1572'>『広尾』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1572/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    142.79125027201553,
+    41.89047683805767,
+    144.1447828434379,
+    42.7458857030201
+  ]
+}

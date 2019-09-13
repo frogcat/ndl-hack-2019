@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "Verso: Ise ryogu sanpai junro no zu.",
+  "description": "【Courtesy of the C. V. Starr East Asian Library University of California, Berkeley】  Folded in cover 22 x 16 cm. Includes list of shrines, and legend. East Asian Library call number Hb107.2.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/2677'>Verso: Ise ryogu sanpai junro no zu.</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/2677/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    136.6743068811513,
+    34.448637537923545,
+    136.74239011865987,
+    34.52050550085872
+  ]
+}

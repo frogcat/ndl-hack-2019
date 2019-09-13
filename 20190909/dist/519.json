@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『肥前小浜』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 肥前小浜 【測量時期】 明治33年測図の縮図/大正15年測図の縮図/昭和7年部分修正 【発行時期】  【記号】 熊本16号 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/519'>『肥前小浜』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/519/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    129.95385577368134,
+    32.64386036354165,
+    130.27899490080102,
+    32.86493290939507
+  ]
+}

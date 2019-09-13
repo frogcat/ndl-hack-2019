@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『室戸岬』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 室戸岬 【測量時期】 明治40年測圖/昭和8年修正測圖 【発行時期】  【記号】 剣山十六号南部 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/576'>『室戸岬』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/576/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    133.955097459433,
+    33.15028646831999,
+    134.27958036564425,
+    33.36006445286395
+  ]
+}

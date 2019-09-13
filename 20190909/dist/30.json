@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "文久改正/新選京絵図",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/30'>文久改正/新選京絵図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/30/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.65697715789366,
+    34.94499495875282,
+    135.77377374372705,
+    35.07360203797656
+  ]
+}

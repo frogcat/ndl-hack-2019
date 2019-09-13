@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『新発田』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 新発田 【測量時期】 明治44年測図/昭和6年修正 【発行時期】  【記号】 新潟9号（共16面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1103'>『新発田』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1103/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.1956760751634,
+    37.819356192938244,
+    139.5345647779781,
+    38.02603569647519
+  ]
+}

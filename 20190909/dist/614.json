@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『姫島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 姫島 【測量時期】 明治35年測圖/昭和16年修正測圖 【発行時期】  【記号】 中津六号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/614'>『姫島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/614/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    131.44944873877424,
+    33.64843182687954,
+    131.78079898916903,
+    33.864015297245096
+  ]
+}

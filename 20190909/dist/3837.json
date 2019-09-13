@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "35_LUXOR",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3837'>35_LUXOR</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3837/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    32.3486534140172,
+    25.551466491294445,
+    32.9427016660193,
+    25.94501553337588
+  ]
+}

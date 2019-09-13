@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『熊田』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 熊田 【測量時期】 明治36年測圖/昭和7年要部修正測圖 【発行時期】  【記号】 大分八号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/525'>『熊田』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/525/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    131.45326767423003,
+    32.64799383164055,
+    131.78393462088349,
+    32.861662149179786
+  ]
+}

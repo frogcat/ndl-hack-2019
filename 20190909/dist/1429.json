@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『港町』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 鬼鹿 【測量時期】 大正11年測図/昭和8年鉄道補入 【発行時期】 昭和7年9月発行 【記号】 羽幌8号（共8面） 【測量機関】 大日本帝国陸地測量部 【備考】 仮製版　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1429'>『港町』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1429/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.42296837387272,
+    43.98391456781676,
+    141.797886814411,
+    44.19104998749731
+  ]
+}

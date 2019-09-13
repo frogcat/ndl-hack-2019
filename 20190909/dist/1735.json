@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "祇園町全図(一部)",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1735'>祇園町全図(一部)</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1735/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.77523443054005,
+    35.003224892324525,
+    135.77788952806566,
+    35.0043008331271
+  ]
+}

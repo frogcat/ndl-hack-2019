@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "都市計画図S60",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1723'>都市計画図S60</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1723/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.7120458585566,
+    34.46825249101411,
+    135.77671173727506,
+    34.54034229700045
+  ]
+}

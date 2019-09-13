@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『留萌』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1579'>『留萌』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1579/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.7903806492724,
+    43.251154580735005,
+    142.1445960712844,
+    44.09356558269082
+  ]
+}

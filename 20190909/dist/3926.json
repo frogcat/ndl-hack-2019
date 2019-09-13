@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "佐賀藩地図(複製)",
+  "description": "50%に縮小",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3926'>佐賀藩地図(複製)</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3926/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    129.47515172086196,
+    32.87465297520181,
+    130.734105668344,
+    33.663097733420734
+  ]
+}

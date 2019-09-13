@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『米沢』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 米沢 【測量時期】 明治41年測図/昭和6年要部修正/昭和27年応急修正 【発行時期】 昭和28年3月発行 【記号】 福島13号（共18面） 【測量機関】 国土地理院 【備考】 応急修正版",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1106'>『米沢』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1106/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.94486890510888,
+    37.81646078234107,
+    140.28904781874402,
+    38.025235284154505
+  ]
+}

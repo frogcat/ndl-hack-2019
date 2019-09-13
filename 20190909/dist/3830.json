@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "27_SAMALUT",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3830'>27_SAMALUT</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3830/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    30.54373984922647,
+    28.10261991431607,
+    31.152512761331575,
+    28.472567798860027
+  ]
+}

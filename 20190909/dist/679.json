@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『三根・仁位』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 仁位 【測量時期】 大正1年測図/大正11年測図の縮図/昭和10年修正、第2回修正、測図の縮図 【発行時期】 昭和21年11月発行 【記号】 厳原10号（共7面） 【測量機関】 地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/679'>『三根・仁位』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/679/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    129.20393538863988,
+    34.31409300806753,
+    129.53802976843002,
+    34.528555149851044
+  ]
+}

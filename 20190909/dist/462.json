@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『岩川』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 岩川 【測量時期】 明治35年測圖/昭和7年第二回修正測圖及修正測圖之縮圖/昭和10年部分修正測圖 【発行時期】  【記号】 鹿児島三号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/462'>『岩川』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/462/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.7049081653081,
+    31.478885981210233,
+    131.02658729281347,
+    31.699905626183035
+  ]
+}

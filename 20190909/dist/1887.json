@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "[天保改鐫/改正日本図]",
+  "description": "Owned by 立命館大学アート・リサーチセンター 【成立・出版年】 天保０８(1837) ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1887'>[天保改鐫/改正日本図]</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1887/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    127.4967518862402,
+    29.19074805575999,
+    146.78655165396768,
+    43.45740139170111
+  ]
+}

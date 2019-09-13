@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "舞鶴港図",
+  "description": "gisday 2019 ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3867'>舞鶴港図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3867/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.09278760449212,
+    35.37402866087791,
+    135.60475343349216,
+    35.68030380254467
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "改正/上下京区分一覧之図",
+  "description": "gisday2019",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3872'>改正/上下京区分一覧之図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3872/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.73516558405797,
+    34.84131743632044,
+    135.79477618826422,
+    35.14537179520769
+  ]
+}

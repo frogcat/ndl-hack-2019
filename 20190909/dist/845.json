@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『熊川』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 熊川 【測量時期】 明治26年測図/大正9年修正 【発行時期】  【記号】 宮津4号（共5面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/845'>『熊川』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/845/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.69210687751527,
+    35.31055498276358,
+    136.03470671201174,
+    35.52831169892987
+  ]
+}

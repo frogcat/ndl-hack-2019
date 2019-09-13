@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "神戸：五万分一地形圖",
+  "description": "Gomanbun no ichi chikeizu\r\nALTERNATIVE TITLE\r\n五万分一地形圖\r\nTYPE OF RESOURCE\r\nCartographic\r\nFORM\r\ncartographic materialmapmap\r\nEXTENT\r\nmaps : some col. ; 39 x 46 cm. or smaller.\r\nIMPRINT\r\n[Yatabe-machi] : Kokudo Chiriin, Meiji 21?- [1888?-], 1888-\r\nISSUANCE\r\nmonographic\r\nIMPRINT\r\n[谷田部町] : 國土地理院, 明治 21?- [1888?-]\r\nLANGUAGE\r\nJapanese\r\nMAP DATA\r\nScale 1:50,000.\r\nCreators/Contributors",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/47'>神戸：五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/47/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    134.94920660606843,
+    34.64557918036476,
+    135.28028756643766,
+    34.86261362041595
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "立命館大学案内図",
+  "description": "Mappin`Dropで作った案内図です。\r\n\r\nhttp://mappindrop.info-mapping.com/pref-kyoto/",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1642'>立命館大学案内図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1642/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.71498720110557,
+    35.028364561103146,
+    135.73252935419922,
+    35.035722636058296
+  ]
+}

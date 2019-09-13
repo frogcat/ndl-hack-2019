@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "JAPON",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/126'>JAPON</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/126/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    121.31274091066265,
+    24.879983075707333,
+    151.09080806254843,
+    51.213967727819856
+  ]
+}

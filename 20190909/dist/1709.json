@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "下京区第拾組風早町全図",
+  "description": "京都府京都学・歴彩館\r\n下京区地籍図",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1709'>下京区第拾組風早町全図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1709/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.75272093980928,
+    35.00058356990796,
+    135.75468356160098,
+    35.00297739618581
+  ]
+}

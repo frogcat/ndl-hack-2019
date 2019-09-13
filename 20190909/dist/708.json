@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『府中』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 府中 【測量時期】 明治30年測図の縮図/明治31年測量/昭和7年修正、測図の縮図 【発行時期】 昭和10年8月発行 【記号】 岡山及丸亀13号（共16面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/708'>『府中』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/708/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    132.95229869438825,
+    34.48411998371835,
+    133.28267944591147,
+    34.69412137134009
+  ]
+}

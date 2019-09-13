@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "32_SOHAG",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3835'>32_SOHAG</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3835/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    31.440233362697647,
+    26.290446960772407,
+    32.065671813717515,
+    26.667679653407824
+  ]
+}

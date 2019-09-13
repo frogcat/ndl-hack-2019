@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『神湊』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 神湊 【測量時期】 明治33年測図/昭和11年第2回修正 【発行時期】 昭和21年11月発行 【記号】 小倉9号（共16面） 【測量機関】 地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/627'>『神湊』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/627/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.21594453159855,
+    33.817504486039105,
+    130.54325525977612,
+    34.02128637152314
+  ]
+}

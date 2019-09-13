@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『朝日湾』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1603'>『朝日湾』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1603/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    155.75322465013326,
+    49.92769547587961,
+    157.21966635470147,
+    50.74901770067904
+  ]
+}

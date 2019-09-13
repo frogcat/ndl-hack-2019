@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『鶴来』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 鶴来 【測量時期】 明治42年測図/昭和5年修正 【発行時期】 昭和8年10月発行 【記号】 金沢6号（共13面） 【測量機関】 大日本帝国陸地測量部 【備考】 　（改）",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/964'>『鶴来』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/964/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    136.445110901169,
+    36.31442529956773,
+    136.78161569635645,
+    36.52638047900134
+  ]
+}

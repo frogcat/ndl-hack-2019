@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『夕張』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 夕張炭山 【測量時期】 大正5年測図/昭和10年修正改版 【発行時期】  【記号】 札幌2号（共16面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1336'>『夕張』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1336/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.67948570092565,
+    42.983847979453905,
+    142.04949301120072,
+    43.190103964817375
+  ]
+}

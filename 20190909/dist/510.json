@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『口之津』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 口之津 【測量時期】 明治34年測圖/昭和7年修正測圖 【発行時期】 昭和10年発行 【記号】 八代十三号 【測量機関】 陸地測量部・参謀本部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/510'>『口之津』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/510/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    129.95278450663355,
+    32.48408220054842,
+    130.27634235903483,
+    32.6942795227141
+  ]
+}

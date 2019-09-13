@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『田子』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 田子 【測量時期】 大正3年測図/昭和8年修正 【発行時期】 昭和11年1月発行 【記号】 八戸14号（共15面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1226'>『田子』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1226/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.93144739805012,
+    40.31191656116712,
+    141.28959508025935,
+    40.52945946758989
+  ]
+}

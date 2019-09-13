@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "新増細見京絵図大全",
+  "description": "Owned by Sainsbury Institute for the Study of Japanese Arts and Cultures 【Atlas / Book Title】   【Engraver】   【Map Size】 105.5x2.0 cm  【Medium】 木版刷",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1837'>新増細見京絵図大全</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1837/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.71570519312627,
+    34.963263215819985,
+    135.79920568428162,
+    35.05054996406415
+  ]
+}

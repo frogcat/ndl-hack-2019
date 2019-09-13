@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "25_BENI SUEF",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3843'>25_BENI SUEF</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3843/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    30.834028108075987,
+    28.826508127432955,
+    31.486920576265476,
+    29.188137038767938
+  ]
+}

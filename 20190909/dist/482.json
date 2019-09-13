@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『片島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 片島 【測量時期】 明治34年測圖 【発行時期】  【記号】 野母崎四号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/482'>『片島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/482/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    129.70108493079627,
+    31.981944939659353,
+    130.02709806641448,
+    32.198368484175724
+  ]
+}

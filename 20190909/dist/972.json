@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『軽井沢』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 軽井沢 【測量時期】 大正1年測図/昭和12年修正 【発行時期】  【記号】 長野6号 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/972'>『軽井沢』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/972/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    138.44840675675601,
+    36.31471246310546,
+    138.7821350591119,
+    36.53020509390076
+  ]
+}

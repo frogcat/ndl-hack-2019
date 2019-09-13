@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『長野』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 長野 【測量時期】 大正1年測図/昭和12年第2回修正 【発行時期】  【記号】 長野13号 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/985'>『長野』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/985/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    137.95052920414258,
+    36.4848809845526,
+    138.2817730134026,
+    36.6918700015634
+  ]
+}

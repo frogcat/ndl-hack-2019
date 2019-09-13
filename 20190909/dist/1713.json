@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "大和高田市都市計画図",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1713'>大和高田市都市計画図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1713/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.70964978182184,
+    34.46847319676669,
+    135.7742921741716,
+    34.540257756987685
+  ]
+}

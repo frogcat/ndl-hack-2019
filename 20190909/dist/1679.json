@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "京都区組分細図testerimts",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1679'>京都区組分細図testerimts</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1679/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.74305197372868,
+    34.9626619026343,
+    135.79005766914094,
+    35.01668855542451
+  ]
+}

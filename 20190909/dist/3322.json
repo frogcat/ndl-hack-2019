@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "s31",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3322'>s31</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3322/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.72465502333458,
+    35.01560066338801,
+    135.73416868185365,
+    35.02345597776154
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "Otagi-gun zu (Map of Otagi District ) 愛宕郡圖",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3864'>Otagi-gun zu (Map of Otagi District ) 愛宕郡圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3864/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.70361379250696,
+    34.888532379091316,
+    136.66456170355417,
+    36.97567756661489
+  ]
+}

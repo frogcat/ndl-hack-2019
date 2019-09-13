@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『東京』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1617'>『東京』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1617/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    138.81032722454913,
+    35.26077178908688,
+    140.12690162482073,
+    36.112065576609666
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『夕張岳』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1575'>『夕張岳』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1575/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.8113207722119,
+    42.596740030387465,
+    143.1288732112797,
+    43.420140509330245
+  ]
+}

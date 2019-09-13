@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『美濃加茂』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 美濃太田 【測量時期】 明治44年測図/昭和8年要部修正 【発行時期】  【記号】 飯田16号（共16面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/850'>『美濃加茂』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/850/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    136.95078284807917,
+    35.31461523542047,
+    137.27997020813652,
+    35.528435220279846
+  ]
+}

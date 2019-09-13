@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『明智』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 明知 【測量時期】 明治24年測図/昭和3年要部修正 【発行時期】 昭和6年2月発行 【記号】 豊橋9号（共16面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/821'>『明智』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/821/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    137.1949221936821,
+    35.140463805661895,
+    137.5374779536448,
+    35.36762035354547
+  ]
+}

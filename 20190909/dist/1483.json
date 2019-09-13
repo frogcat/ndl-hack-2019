@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『稚咲内』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 稚咲内 【測量時期】 大正12年測図/昭和3年鉄道補入 【発行時期】 昭和5年3月発行 【記号】 天塩6号（共9面） 【測量機関】 大日本帝国陸地測量部 【備考】 仮製版　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1483'>『稚咲内』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1483/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.41923989151294,
+    44.98272494830636,
+    141.8081355357011,
+    45.195887741014474
+  ]
+}

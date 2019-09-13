@@ -1,0 +1,72 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>Hello Japan Search</title>
+  <script src="https://code.jquery.com/jquery-3.4.1.min.js"></script>
+  <script>
+    const tighten = (a) => {
+      const b = {};
+      Object.keys(a).forEach(k => {
+        b[k] = a[k].value;
+      });
+      return b;
+    };
+
+    const jps = sparql => fetch('https://jpsearch.go.jp/rdf/sparql?query=' + encodeURIComponent(sparql), {
+        headers: {
+          'Accept': 'application/sparql-results+json'
+        }
+      })
+      .then(a => a.ok ? a.json() : null)
+      .then(a => a === null ? [] : a.results.bindings.map(tighten));
+  </script>
+</head>
+
+<body>
+  <ul id="root"></ul>
+  <script>
+    jps(`select * where{
+?s rdfs:subClassOf* <https://jpsearch.go.jp/term/type/記述情報> ; rdfs:label ?label
+optional { ?s rdfs:subClassOf ?p}
+}`).then(all => {
+      all.forEach(parent => {
+        parent.children = all.filter(child => child.p === parent.s);
+      });
+      const dig = function(data) {
+        const li = $("<li/>");
+        li.append($("<a/>", {
+          href: data.s,
+          "class": "type",
+          target: "_blank"
+        }).text(data.label));
+        if (data.children && data.children.length > 0) {
+          const ul = $("<ul/>").appendTo(li);
+          ul.append(data.children.map(c => dig(c)));
+        }
+        return li;
+      };
+      all.filter(root => root.p === undefined).forEach(root => {
+        $("#root").append(dig(root));
+      });
+    });
+
+    $("#root").on("click", "a.type", function(e) {
+      const type = $(this).attr("href");
+
+      jps(`SELECT ?p ?t (count(?s) as ?count) WHERE{
+  ?s a <${type}> .
+  optional {?s schema:spatial  ?p.}
+  optional {?s schema:temporal ?t.}
+} group by ?p ?t
+`).then(json => {
+        console.log(json);
+      });
+
+      return false;
+    });
+  </script>
+</body>
+
+</html>

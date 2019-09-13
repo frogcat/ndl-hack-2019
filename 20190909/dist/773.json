@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『館山』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 館山 【測量時期】 明治36年測図/昭和4年修正/昭和19年部分修正 【発行時期】 昭和22年7月発行 【記号】 横須賀3号（共11面） 【測量機関】 地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/773'>『館山』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/773/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.70585512615915,
+    34.8165389386089,
+    140.03746374807878,
+    35.033059099669416
+  ]
+}

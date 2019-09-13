@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『小浜』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 小浜 【測量時期】 明治26年測図/大正9年修正/昭和2年鉄道補入 【発行時期】  【記号】 宮津8号 【測量機関】 参謀本部 【備考】 舞鶴要塞近傍2号（共10面）　軍事極秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/844'>『小浜』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/844/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.4605672003551,
+    35.316757325444804,
+    135.7833261141776,
+    35.533165733003116
+  ]
+}

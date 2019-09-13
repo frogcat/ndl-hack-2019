@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『上総大原』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 大原 【測量時期】 明治36年測図/昭和6年修正 【発行時期】  【記号】 大多喜9号（共4面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/831'>『上総大原』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/831/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.20750887913192,
+    35.146200901269644,
+    140.5413434902816,
+    35.36506828868877
+  ]
+}

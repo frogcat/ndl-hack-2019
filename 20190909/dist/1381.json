@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『納沙布』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 納沙布 【測量時期】 大正11年測図 【発行時期】 昭和11年11月発行 【記号】 根室近傍1号（共11面） 【測量機関】 参謀本部・陸地測量部 【備考】 標津4号（共13面）　仮製版　軍事極秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1381'>『納沙布』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1381/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    145.70134082058374,
+    43.316557277467254,
+    146.07322572504435,
+    43.52788879817815
+  ]
+}

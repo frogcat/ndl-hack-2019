@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『苫小牧』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1570'>『苫小牧』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1570/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.73938686275284,
+    41.90941215729877,
+    142.19304817472576,
+    42.762652200894216
+  ]
+}

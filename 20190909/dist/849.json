@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『岐阜』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 岐阜 【測量時期】 明治42年測図の縮図/明治39年測図/昭和7年第5回修正、測図の縮図 【発行時期】 昭和10年7月発行 【記号】 岐阜4号（共16面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/849'>『岐阜』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/849/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    136.69827706261083,
+    35.317053904084304,
+    137.0332078219093,
+    35.52808342930664
+  ]
+}

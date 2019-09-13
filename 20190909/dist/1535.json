@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『新竹』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1535'>『新竹』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1535/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    119.9099371997746,
+    24.57723165033307,
+    121.09864241978961,
+    25.43505185585955
+  ]
+}

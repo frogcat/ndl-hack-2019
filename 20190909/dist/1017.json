@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『小滝』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 小滝 【測量時期】 明治44年測図/昭和5年修正 【発行時期】  【記号】 富山3号 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1017'>『小滝』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1017/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    137.69357510061775,
+    36.81292295774833,
+    138.03417908801933,
+    37.033065141953074
+  ]
+}

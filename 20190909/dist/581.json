@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『甘木』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 甘木 【測量時期】 明治33年測圖之縮圖/昭和11年第三回修正測圖之縮圖/昭和13年測圖之縮圖 【発行時期】  【記号】 小倉八号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/581'>『甘木』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/581/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.45082108213595,
+    33.3146209979143,
+    130.78148286886568,
+    33.529419790466235
+  ]
+}

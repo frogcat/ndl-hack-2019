@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『西津』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 西津 【測量時期】 明治25年測図の縮図/昭和7年第2回修正、測図の縮図 【発行時期】 昭和10年1月発行 【記号】 宮津3号（共12面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/867'>『西津』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/867/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.69567697906282,
+    35.481285666300074,
+    136.0350437224717,
+    35.696092956224994
+  ]
+}

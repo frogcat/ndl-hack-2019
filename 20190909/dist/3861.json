@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "エルワスタ",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3861'>エルワスタ</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3861/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    30.841872761933235,
+    29.174749988231955,
+    31.47200630784406,
+    29.561234110882058
+  ]
+}

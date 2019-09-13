@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『銚子』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 銚子 【測量時期】 明治36年測図/昭和9年第2回修正/昭和19年部分修正/昭和28年応急修正 【発行時期】 昭和30年6月発行 【記号】 千葉2号（共12面） 【測量機関】 国土地理院 【備考】 応急修正版",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/903'>『銚子』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/903/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.707288082717,
+    35.64691879998607,
+    141.04133302459707,
+    35.86587043181672
+  ]
+}

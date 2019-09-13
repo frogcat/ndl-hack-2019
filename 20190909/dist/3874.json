@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "[文化改正/新増細見京絵図]",
+  "description": "\t立命館ARC 成立・出版年: 文化１０  出版地:  京都",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3874'>[文化改正/新増細見京絵図]</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3874/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.72369442288792,
+    34.953666451568324,
+    135.79378193680807,
+    35.05965158048618
+  ]
+}

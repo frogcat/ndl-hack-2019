@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『中津』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1557'>『中津』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1557/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.81184018830493,
+    33.26940641975396,
+    132.1069247997843,
+    34.086448903849636
+  ]
+}

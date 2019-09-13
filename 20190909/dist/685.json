@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『広島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 広島 【測量時期】 明治27年測図の縮図/明治31年測量/大正14年修正、測図の縮図/昭和7年部分修正、測図の縮図 【発行時期】 昭和8年10月発行 【記号】 広島10号（共16面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/685'>『広島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/685/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    132.21108902242815,
+    34.316346726762774,
+    132.53787160124713,
+    34.532389197651284
+  ]
+}

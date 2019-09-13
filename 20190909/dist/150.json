@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "下京大火",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/150'>下京大火</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/150/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.72462510952514,
+    34.93488276410228,
+    135.8102905131063,
+    35.060958009574776
+  ]
+}

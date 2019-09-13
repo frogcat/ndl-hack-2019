@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "30_ASYUT",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3833'>30_ASYUT</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3833/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    31.149876214571837,
+    27.01785795096534,
+    31.75770121278372,
+    27.38884423820912
+  ]
+}

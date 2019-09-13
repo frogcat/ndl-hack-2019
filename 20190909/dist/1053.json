@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『針生』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 針生 【測量時期】 大正2年測図/昭和8年要部修正 【発行時期】 昭和11年2月発行 【記号】 日光5号（共16面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1053'>『針生』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1053/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.44908219751653,
+    37.15219834289815,
+    139.78478054791404,
+    37.35740649391433
+  ]
+}

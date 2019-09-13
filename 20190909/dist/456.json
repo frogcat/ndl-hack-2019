@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『鹿屋』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 鹿屋 【測量時期】 明治35年測図/昭和7年修正/昭和10年部分修正/昭和24年資料修正 【発行時期】 昭和24年6月発行 【記号】 鹿児島4号（共16面） 【測量機関】 地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/456'>『鹿屋』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/456/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.70519147511112,
+    31.30925680304267,
+    131.02812587675766,
+    31.532508630631547
+  ]
+}

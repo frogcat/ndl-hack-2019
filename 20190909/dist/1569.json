@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『室蘭』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1569'>『室蘭』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1569/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.8244391083303,
+    41.9212565735033,
+    141.11330315274807,
+    42.74933309683876
+  ]
+}

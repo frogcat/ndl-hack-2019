@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『志布志』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 志布志 【測量時期】 明治34年測図/昭和7年第2回修正、測図の縮図/昭和10年部分修正/昭和24年資料修正 【発行時期】 昭和24年6月発行 【記号】 宮崎16号（共8面） 【測量機関】 地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/457'>『志布志』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/457/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.95402712548716,
+    31.313145587907414,
+    131.2831534048417,
+    31.53154453485242
+  ]
+}

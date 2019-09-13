@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『石見大田』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 石見大田 【測量時期】 明治32年測図/昭和7年修正、測図の縮図/昭和23年資料修正 【発行時期】 昭和23年12月発行 【記号】 浜田5号（共15面） 【測量機関】 地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/802'>『石見大田』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/802/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    132.44860024145166,
+    35.14955445063935,
+    132.78181799731468,
+    35.35860226363684
+  ]
+}

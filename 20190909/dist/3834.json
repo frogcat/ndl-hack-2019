@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "31_TAHYA",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3834'>31_TAHYA</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3834/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    31.142214683103894,
+    26.66034908313273,
+    31.7633845169092,
+    27.023771412799256
+  ]
+}

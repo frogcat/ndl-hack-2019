@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "[京都市細図]",
+  "description": "ARCのデータをテスト利用",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3905'>[京都市細図]</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3905/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.70067929780384,
+    34.96739259399213,
+    135.81641527765328,
+    35.04832288796997
+  ]
+}

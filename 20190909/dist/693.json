@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『草壁』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 寒霞渓 【測量時期】 明治30年測圖/大正12年及昭和3年修正測圖 【発行時期】  【記号】 徳島九号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/693'>『草壁』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/693/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    134.20011784488648,
+    34.31675420221829,
+    134.52980231510952,
+    34.5269329444143
+  ]
+}

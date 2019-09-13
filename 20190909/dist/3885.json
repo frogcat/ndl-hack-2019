@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "test2",
+  "description": "平面直角座標系",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3885'>test2</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3885/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.6580384,
+    34.94513527713814,
+    135.83354036355257,
+    35.0895248
+  ]
+}

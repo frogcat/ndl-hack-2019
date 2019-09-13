@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『彦根東部』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 彦根東部 【測量時期】 明治24年測図/大正9年修正/昭和7年鉄道補入 【発行時期】 昭和8年6月発行 【記号】 名古屋9号（共16面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/817'>『彦根東部』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/817/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    136.19573433034128,
+    35.14353010187706,
+    136.53367399794246,
+    35.364766488769654
+  ]
+}

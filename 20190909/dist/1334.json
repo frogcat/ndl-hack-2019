@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『札幌』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 札幌 【測量時期】 大正5年測図の縮図/昭和10年修正、測図の縮図 【発行時期】  【記号】 札幌10号 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1334'>『札幌』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1334/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.18072164706476,
+    42.984888718857746,
+    141.54842630463102,
+    43.19098769678757
+  ]
+}

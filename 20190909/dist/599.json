@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『宇佐』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 宇佐 【測量時期】 明治36年測圖/昭和2年修正測圖 【発行時期】  【記号】 中津十一号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/599'>『宇佐』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/599/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    131.19994377540038,
+    33.47869708490536,
+    131.5289338406016,
+    33.699867236895614
+  ]
+}

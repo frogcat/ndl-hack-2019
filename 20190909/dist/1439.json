@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『網走』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 網走 【測量時期】 大正13年測圖/昭和8年鐡道補入 【発行時期】  【記号】 網走十二号 【測量機関】 参謀本部 【備考】 祕　假製版",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1439'>『網走』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1439/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    144.1746603076118,
+    43.983884776524526,
+    144.55185654028017,
+    44.19151793247345
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "19_SUEZ",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3821'>19_SUEZ</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3821/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    32.094928147612464,
+    29.900380658748237,
+    32.71619568339076,
+    30.268720428059485
+  ]
+}

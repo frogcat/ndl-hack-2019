@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『三田』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 三田 【測量時期】 明治43年測図/大正12年修正/昭和4年鉄道補入 【発行時期】  【記号】 京都及大阪15号（共16面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/762'>『三田』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/762/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    134.94801288580916,
+    34.81362264204836,
+    135.27948044899918,
+    35.02983107612286
+  ]
+}

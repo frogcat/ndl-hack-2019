@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "13_BENHA",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3816'>13_BENHA</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3816/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    30.79143453457575,
+    30.276799066503212,
+    31.47506465845299,
+    30.637910140002884
+  ]
+}

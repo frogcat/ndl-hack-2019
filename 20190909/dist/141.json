@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "京都大火",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/141'>京都大火</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/141/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.73616825142142,
+    34.97946107877956,
+    135.78283864581596,
+    35.02541769067158
+  ]
+}

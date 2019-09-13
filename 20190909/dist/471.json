@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『都城』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 都城 【測量時期】 明治34年測図/大正4年測図の縮図/昭和7年第2回修正、測図の縮図/昭和10年部分修正 【発行時期】  【記号】 宮崎14号（共8面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/471'>『都城』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/471/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.95761881241208,
+    31.650554988122483,
+    131.27894164857267,
+    31.86032919939648
+  ]
+}

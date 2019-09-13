@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『加久藤』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 加久藤 【測量時期】 明治35年測圖/昭和7年要部修正測圖/昭和10年部分修正測圖 【発行時期】  【記号】 八代四号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/486'>『加久藤』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/486/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.7019929299578,
+    31.980258210141738,
+    131.0280220855246,
+    32.19686109789819
+  ]
+}

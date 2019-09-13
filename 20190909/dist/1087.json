@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『大甕』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 大甕 【測量時期】 明治41年測図/昭和8年修正 【発行時期】 昭和10年12月発行 【記号】 福島3号東部（共18面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1087'>『大甕』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1087/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.94238546986017,
+    37.48498223841106,
+    141.28738449613937,
+    37.69732993077159
+  ]
+}

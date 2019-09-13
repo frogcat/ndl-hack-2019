@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『御影』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 御影 【測量時期】 大正9年測圖/昭和5年部分修正測圖 【発行時期】  【記号】 夕張岳三号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1325'>『御影』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1325/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    142.67694372337317,
+    42.81668349782018,
+    143.04776790382087,
+    43.02529572471577
+  ]
+}

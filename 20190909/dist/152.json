@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": " 新増細見京絵図大全",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/152'> 新増細見京絵図大全</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/152/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.71967423764238,
+    34.96032915357543,
+    135.79362418674273,
+    35.05506171300458
+  ]
+}

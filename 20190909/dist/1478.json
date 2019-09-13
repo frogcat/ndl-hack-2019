@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『敏音知』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 敏音知 【測量時期】 大正12年測図/昭和3年鉄道補入 【発行時期】 昭和5年3月発行 【記号】 枝幸15号（共12面） 【測量機関】 大日本帝国陸地測量部 【備考】 仮製版　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1478'>『敏音知』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1478/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.93845395233376,
+    44.81726185942774,
+    142.29637384824272,
+    45.02314881851051
+  ]
+}

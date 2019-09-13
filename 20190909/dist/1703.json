@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "下京区第拾壱組郭巨山町全図",
+  "description": "京都府立京都学・歴彩館所蔵\r\n下京区地籍図",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1703'>下京区第拾壱組郭巨山町全図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1703/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.75441420002537,
+    35.00297060699546,
+    135.75727465569568,
+    35.00456971782222
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『八幡平』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 八幡平 【測量時期】 大正5年測図/昭和4年鉄道補入 【発行時期】 昭和6年6月発行 【記号】 秋田1号（共16面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1202'>『八幡平』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1202/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.69911076718705,
+    39.81449563536448,
+    141.04745357421135,
+    40.02329311052081
+  ]
+}

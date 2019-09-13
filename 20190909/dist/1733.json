@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "函谷鉾町全図",
+  "description": "下京区地籍図",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1733'>函谷鉾町全図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1733/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.7572663354625,
+    35.00264221265744,
+    135.76037518112076,
+    35.0049881819954
+  ]
+}

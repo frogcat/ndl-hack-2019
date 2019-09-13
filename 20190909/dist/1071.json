@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『郡山』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 郡山 【測量時期】 明治41年測図/昭和6年要部修正 【発行時期】 昭和8年9月発行 【記号】 福島12号（共18面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1071'>『郡山』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1071/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.19589959671276,
+    37.317860286082635,
+    140.5384788555841,
+    37.52656615336085
+  ]
+}

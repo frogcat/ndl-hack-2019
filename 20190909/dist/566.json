@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『日田』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 日田 【測量時期】 明治33年測圖/昭和2年要部修正測圖/昭和6年部分修正測圖/昭和7年鐡道補入 【発行時期】  【記号】 熊本一号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/566'>『日田』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/566/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.69705910339113,
+    33.147481794370485,
+    131.02737659742363,
+    33.3622524295955
+  ]
+}

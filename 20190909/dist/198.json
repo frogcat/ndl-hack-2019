@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "出火",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/198'>出火</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/198/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.73548840067878,
+    35.01414024055308,
+    135.778075217242,
+    35.037728790087755
+  ]
+}

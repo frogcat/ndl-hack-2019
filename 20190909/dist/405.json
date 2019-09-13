@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『黄尾嶼』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 黄尾嶼 【測量時期】 昭和5年測圖（海上寫眞測量） 【発行時期】 昭和11年発行 【記号】 先島群島二号 【測量機関】 陸地測量部・参謀本部 【備考】 軍事極祕（戦地ニ在りテハ軍事祕密トス）　假製版",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/405'>『黄尾嶼』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/405/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    123.46950307218698,
+    25.81548920485931,
+    123.78171355933472,
+    26.03609857971219
+  ]
+}

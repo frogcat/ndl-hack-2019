@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "上京区第廿八組役行者町全図",
+  "description": "京都府立京都学・歴彩館所蔵\r\n上京区地籍図",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1706'>上京区第廿八組役行者町全図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1706/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.75707977396303,
+    35.0078971739879,
+    135.7589796885195,
+    35.01030879108237
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『大正』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 幸震 【測量時期】 大正9年測図/昭和5年部分修正 【発行時期】 昭和7年12月発行 【記号】 帯広16号（共16面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1311'>『大正』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1311/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    142.94908463942966,
+    42.650609740969244,
+    143.28672040231726,
+    42.858285303302544
+  ]
+}

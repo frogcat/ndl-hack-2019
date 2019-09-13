@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "下京第拾壱組岩戸山町全図",
+  "description": "京都府立京都学・歴彩館所蔵\r\n下京区地籍図",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1700'>下京第拾壱組岩戸山町全図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1700/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.75569897127426,
+    34.99968025684292,
+    135.75767539982556,
+    35.002056230211664
+  ]
+}

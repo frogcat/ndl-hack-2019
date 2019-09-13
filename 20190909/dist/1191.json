@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『秋田』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 秋田 【測量時期】 大正1年測図/昭和13年修正、測図の縮図 【発行時期】  【記号】 秋田14号（共16面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1191'>『秋田』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1191/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.94403277887048,
+    39.65023543846953,
+    140.28969117148068,
+    39.858072584744036
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『富川』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 佐瑠太 【測量時期】 大正8年測圖/昭和3年鐡道補入 【発行時期】  【記号】 浦河十三号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1294'>『富川』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1294/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.9537623162639,
+    42.48443200640468,
+    142.29535110155157,
+    42.6916548166253
+  ]
+}

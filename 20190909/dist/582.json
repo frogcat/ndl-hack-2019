@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『吉井』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 吉井 【測量時期】 明治33年測圖/昭和11年修正測圖 【発行時期】 昭和13年発行 【記号】 小倉四号 【測量機関】 大日本帝國陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/582'>『吉井』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/582/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.700992549682,
+    33.317581936415586,
+    131.0273248072595,
+    33.526212843781764
+  ]
+}

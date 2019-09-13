@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『鹿島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 鹿島 【測量時期】 明治33年及大正3年測圖之縮圖/大正6年修正測圖/昭和6年鐡道補入/昭和7年部分修正測圖 【発行時期】  【記号】 熊本十四号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/548'>『鹿島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/548/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    129.9490283265431,
+    32.98144052173169,
+    130.27764539333003,
+    33.19336726965046
+  ]
+}

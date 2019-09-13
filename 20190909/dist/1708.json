@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "下京区第拾組蘆刈山町全図",
+  "description": "京都府立京都学・歴彩館所蔵\r\n下京地籍図\r\n",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1708'>下京区第拾組蘆刈山町全図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1708/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.75281817083288,
+    35.0015704516841,
+    135.75573003713652,
+    35.00342235453403
+  ]
+}

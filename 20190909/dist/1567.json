@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『尻屋崎』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1567'>『尻屋崎』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1567/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.82280920807875,
+    41.27116187070386,
+    142.12091140675153,
+    42.08222274834378
+  ]
+}

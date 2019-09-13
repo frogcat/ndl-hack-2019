@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『端野』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 端野 【測量時期】 大正11年測圖 【発行時期】  【記号】 陸別一号 【測量機関】 参謀本部 【備考】 祕　假製版",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1422'>『端野』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1422/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    143.67777641540457,
+    43.81881531187803,
+    144.05099355153646,
+    44.02404653642957
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "文政七甲申年改板京都絵図",
+  "description": "gis day テスト",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3871'>文政七甲申年改板京都絵図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3871/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.73450173683008,
+    34.96854260339127,
+    135.78477611657405,
+    35.051596834060916
+  ]
+}

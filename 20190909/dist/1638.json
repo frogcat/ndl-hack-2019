@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "郡山金魚マップ",
+  "description": "金魚池や金魚やさんのマップ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1638'>郡山金魚マップ</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1638/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.76945593021347,
+    34.62063015186722,
+    135.8004820938099,
+    34.6657823954505
+  ]
+}

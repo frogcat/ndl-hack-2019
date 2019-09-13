@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "佐賀藩地図(複製)",
+  "description": "村岡碩市写　肥前一国絵図（元禄）の佐賀県部分模写　彩色手書 ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3902'>佐賀藩地図(複製)</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3902/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    129.5655378619222,
+    32.840132731710135,
+    130.64518487105624,
+    33.706283691002206
+  ]
+}

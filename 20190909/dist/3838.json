@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "36_ISNA",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3838'>36_ISNA</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3838/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    32.341338594206,
+    25.200452925813757,
+    32.93897132155215,
+    25.577973220859892
+  ]
+}

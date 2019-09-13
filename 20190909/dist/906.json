@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『大野』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 大野 【測量時期】 明治42年測図/昭和5年修正/昭和8年要部修正 【発行時期】 昭和8年7月発行 【記号】 岐阜9号（共16面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/906'>『大野』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/906/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    136.2014953639506,
+    35.811329931318376,
+    136.53911174576436,
+    36.032030607955406
+  ]
+}

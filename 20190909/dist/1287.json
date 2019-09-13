@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『長万部』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 長万部 【測量時期】 大正6年測図/昭和3年鉄道補入 【発行時期】 昭和5年9月発行 【記号】 室蘭9号（共14面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1287'>『長万部』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1287/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.1776856943655,
+    42.480454737008344,
+    140.54559943042455,
+    42.69784128276072
+  ]
+}

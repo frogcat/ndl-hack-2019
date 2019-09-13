@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『砂川』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 砂川 【測量時期】 大正5年測図/昭和10年鉄道補入 【発行時期】  【記号】 留萌4号 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1369'>『砂川』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1369/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.67647496163164,
+    43.316352718245334,
+    142.04869765963315,
+    43.525385348166694
+  ]
+}

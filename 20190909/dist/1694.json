@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "京都駅前",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1694'>京都駅前</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1694/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.74743629000048,
+    34.98818282450562,
+    135.76073292787268,
+    34.99491246844399
+  ]
+}

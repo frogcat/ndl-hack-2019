@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『福知山』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 福知山 【測量時期】 明治26年測図/大正9年修正/昭和2年鉄道補入/昭和25年応急修正 【発行時期】 昭和35年5月発行 【記号】 京都及大阪13号（共16面） 【測量機関】 国土地理院 【備考】 応急修正版",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/812'>『福知山』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/812/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    134.9611945757659,
+    35.15118459879744,
+    135.28476358322615,
+    35.36214017463159
+  ]
+}

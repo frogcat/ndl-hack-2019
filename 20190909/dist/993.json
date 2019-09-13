@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『烏山』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 鳥山 【測量時期】 明治39年測図/大正6年修正/大正14年鉄道補入 【発行時期】  【記号】 水戸13号（共12面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/993'>『烏山』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/993/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.94427318621737,
+    36.479661214901796,
+    140.28380298864647,
+    36.698946400857835
+  ]
+}

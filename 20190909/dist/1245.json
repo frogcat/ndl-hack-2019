@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『油川』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 油川 【測量時期】 大正3年測図の縮図/昭和14年修正、測図の縮図 【発行時期】 昭和17年5月発行 【記号】 青森7号 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1245'>『油川』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1245/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.43825845970122,
+    40.81778821708286,
+    140.79550295375776,
+    41.02744219769015
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『北小松』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 北小松 【測量時期】 明治26年測図/大正9年修正/昭和7年鉄道補入 【発行時期】  【記号】 京都及大阪1号（共16面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/815'>『北小松』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/815/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.70069148139484,
+    35.15194764929327,
+    136.02754196993783,
+    35.35688633790915
+  ]
+}

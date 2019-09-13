@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『伊野』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 須崎 【測量時期】 明治39年測図の縮図/昭和8年修正、測図の縮図 【発行時期】  【記号】 高知12号（共16面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/605'>『伊野』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/605/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    133.2027445665426,
+    33.48331501672003,
+    133.53049660130935,
+    33.692754038805106
+  ]
+}

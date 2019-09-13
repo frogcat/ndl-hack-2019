@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "天保四年癸巳春改正新板京都絵図",
+  "description": "gisday in kansai 2019 at Ritsumeikan",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3870'>天保四年癸巳春改正新板京都絵図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3870/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.7293647697148,
+    34.95998765949885,
+    135.79038243667628,
+    35.05699100461655
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『男女群島南部』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 男女群島南部 【測量時期】 明治44年測圖/昭和11年要部修正測圖 【発行時期】  【記号】 富江十二号南部 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/473'>『男女群島南部』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/473/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    128.20155236709252,
+    31.815614051318445,
+    128.52786631291582,
+    32.030551127895315
+  ]
+}

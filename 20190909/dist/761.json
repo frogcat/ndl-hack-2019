@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『北条』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 北条 【測量時期】 明治26年測図/大正12年第2回修正/昭和2年鉄道補入 【発行時期】 昭和3年8月発行 【記号】 姫路3号（共16面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/761'>『北条』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/761/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    134.70008180448352,
+    34.817045392011174,
+    135.03196526026153,
+    35.026951978057554
+  ]
+}

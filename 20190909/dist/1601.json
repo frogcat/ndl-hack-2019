@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『温禰古丹島』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1601'>『温禰古丹島』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1601/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    153.75854358544044,
+    49.26157767447468,
+    155.2054009167664,
+    50.08835329237523
+  ]
+}

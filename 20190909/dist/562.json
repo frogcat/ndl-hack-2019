@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『佐世保』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 佐世保 【測量時期】 明治33年測図の縮図/大正13年修正、測図の縮図/昭和20年部分修正 【発行時期】 昭和23年3月発行 【記号】 長崎5号（共15面） 【測量機関】 地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/562'>『佐世保』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/562/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    129.46528133585423,
+    33.14542481954459,
+    129.79091078798552,
+    33.365881761258734
+  ]
+}

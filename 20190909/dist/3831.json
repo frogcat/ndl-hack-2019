@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "28_EL MINYA",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3831'>28_EL MINYA</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3831/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    30.541965391402947,
+    27.74210244039479,
+    31.15689732216525,
+    28.107395338018357
+  ]
+}

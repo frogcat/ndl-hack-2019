@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『尾崎』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 尾崎 【測量時期】 明治43年測図の縮図/昭和9年第2回修正 【発行時期】  【記号】 和歌山14号 【測量機関】 参謀本部 【備考】 由良要塞近傍3号（共10面）　軍事極秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/695'>『尾崎』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/695/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    134.9651806311,
+    34.318741326183506,
+    135.2897724368415,
+    34.52469905923051
+  ]
+}

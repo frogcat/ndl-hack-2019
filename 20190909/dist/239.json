@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "立命館大学衣笠キャンパスアクセスマップ",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/239'>立命館大学衣笠キャンパスアクセスマップ</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/239/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.71250123631023,
+    34.978099405651285,
+    135.78064412587102,
+    35.05081285487773
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "8_FAQUS",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3820'>8_FAQUS</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3820/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    31.471618440675606,
+    30.629548110760478,
+    32.10138927657816,
+    30.99038611259156
+  ]
+}

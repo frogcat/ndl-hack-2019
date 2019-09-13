@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『日奈久』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 日奈久 【測量時期】 明治34年測圖/大正15年修正測圖/昭和7年部分修正測圖 【発行時期】  【記号】 八代六号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/501'>『日奈久』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/501/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.45177755737998,
+    32.314986992166574,
+    130.77781514941452,
+    32.52950447201259
+  ]
+}

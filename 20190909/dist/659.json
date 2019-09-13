@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『厳原』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 小茂田 【測量時期】 大正1年測図の縮図/昭和10年第2回修正、測図の縮図 【発行時期】 昭和22年1月発行 【記号】 厳原15号（共7面） 【測量機関】 地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/659'>『厳原』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/659/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    128.96046591016415,
+    34.14863045829235,
+    129.29392825773803,
+    34.362832199856165
+  ]
+}

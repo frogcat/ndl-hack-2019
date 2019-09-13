@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "3_PORT SAID",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3826'>3_PORT SAID</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3826/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    32.124274132721936,
+    30.942552716909766,
+    32.68678790397974,
+    31.36624941873832
+  ]
+}

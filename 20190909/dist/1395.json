@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『標津』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 春苅古丹 【測量時期】 昭和13年測図/昭和19年部分修正測量 【発行時期】  【記号】 標津13号（共13面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1395'>『標津』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1395/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    144.92586269331832,
+    43.48340290398143,
+    145.29942282183563,
+    43.692000175439894
+  ]
+}

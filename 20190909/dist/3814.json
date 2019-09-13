@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "21_HELWAN",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3814'>21_HELWAN</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3814/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    30.803654685053903,
+    29.501374813976728,
+    31.515654386141467,
+    29.890426722437162
+  ]
+}

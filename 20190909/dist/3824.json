@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "1_EL MANSURA",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3824'>1_EL MANSURA</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3824/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    30.843574024966745,
+    30.98937813979051,
+    31.47641588453713,
+    31.35365390341297
+  ]
+}

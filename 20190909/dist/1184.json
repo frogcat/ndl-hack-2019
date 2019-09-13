@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『刈和野』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 刈和野 【測量時期】 大正1年測図/昭和13年修正 【発行時期】  【記号】 秋田11号（共16面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1184'>『刈和野』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1184/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.19310045186307,
+    39.48215020068702,
+    140.5366419560212,
+    39.69216731219833
+  ]
+}

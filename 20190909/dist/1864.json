@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "大日本国全図",
+  "description": "Owned by Sainsbury Institute for the Study of Japanese Arts and Cultures 【Atlas / Book Title】   【Engraver】 Yuki Masaaki  【Map Size】 161x150 cm  【Medium】 銅版画",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1864'>大日本国全図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1864/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    127.72564621856424,
+    28.659118374062036,
+    143.23481950370083,
+    42.53657023457753
+  ]
+}

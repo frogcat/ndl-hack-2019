@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『田名崎』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 田名崎 【測量時期】 大正10年測圖 【発行時期】 昭和11年発行 【記号】 沖縄郡島四号 【測量機関】 陸地測量部・参謀本部 【備考】 軍事極祕（戦地ニ在りテハ軍事祕密トス）",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/427'>『田名崎』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/427/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    127.96801763829774,
+    26.976720635612615,
+    128.28082272977525,
+    27.201490269472934
+  ]
+}

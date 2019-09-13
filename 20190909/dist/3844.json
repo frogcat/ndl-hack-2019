@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "9_EL QANTARA",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3844'>9_EL QANTARA</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3844/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    32.105682526655535,
+    30.597318708438774,
+    32.71340400950714,
+    31.032232101081675
+  ]
+}

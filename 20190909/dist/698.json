@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『伊勢』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 宇治山田 【測量時期】 明治25年測図の縮図/昭和12年第2回修正、測図の縮図 【発行時期】 昭和15年4月発行 【記号】 宇治山田6号（共14面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/698'>『伊勢』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/698/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    136.4508995664247,
+    34.31024296236978,
+    136.78565852519358,
+    34.53377541813482
+  ]
+}

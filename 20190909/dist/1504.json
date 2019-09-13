@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『母島南部』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】   【測量時期】   【発行時期】   【記号】   【測量機関】   【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1504'>『母島南部』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1504/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.97007632535176,
+    26.478551055625132,
+    142.28578356290632,
+    26.704132409485908
+  ]
+}

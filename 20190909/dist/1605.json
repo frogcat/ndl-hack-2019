@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『占守島』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1605'>『占守島』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1605/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    155.75253697093478,
+    50.592431831104584,
+    157.24212023922618,
+    51.41885155239308
+  ]
+}

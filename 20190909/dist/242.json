@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "京都出火略図",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/242'>京都出火略図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/242/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.73468491090497,
+    35.01268921020657,
+    135.77786741439806,
+    35.03704163719295
+  ]
+}

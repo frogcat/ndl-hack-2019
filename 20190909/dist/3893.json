@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "釧路市動物園",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3893'>釧路市動物園</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3893/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    144.23096440630647,
+    43.07787318494015,
+    144.2408323767219,
+    43.08689178623737
+  ]
+}

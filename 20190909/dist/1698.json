@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "下京区第拾弐組長刀鉾町全図　",
+  "description": "京都府立京都学・歴彩館所蔵\r\n下京区地籍図\r\n",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1698'>下京区第拾弐組長刀鉾町全図　</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1698/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.7587775621747,
+    35.00288886253356,
+    135.76139918546517,
+    35.004612669628656
+  ]
+}

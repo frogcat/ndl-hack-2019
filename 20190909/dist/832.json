@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『大社』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 大社 【測量時期】 明治32年測図/昭和9年第2回修正、測図の縮図 【発行時期】  【記号】 大社8号（共3面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/832'>『大社』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/832/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    132.4487746134344,
+    35.31629131060368,
+    132.78269090742654,
+    35.5265981503682
+  ]
+}

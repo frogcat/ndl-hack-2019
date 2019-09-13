@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『比布』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 比布 【測量時期】 大正8年測圖 【発行時期】  【記号】 旭川九号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1416'>『比布』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1416/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    142.17433940062514,
+    43.81729132983676,
+    142.54990882535833,
+    44.02533783885912
+  ]
+}

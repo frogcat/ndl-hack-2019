@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『光』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 祝島 【測量時期】 明治32年測圖/昭和11年修正測圖 【発行時期】  【記号】 中津二号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/615'>『光』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/615/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    131.69953219581967,
+    33.647447007384,
+    132.0316163288758,
+    33.86363600675611
+  ]
+}

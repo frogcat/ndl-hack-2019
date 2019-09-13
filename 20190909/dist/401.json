@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『沖大東島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 沖大東島 【測量時期】 大正6年測図/昭和8年修正 【発行時期】 昭和11年11月 【記号】 大東島近傍2号（共2面） 【測量機関】 参謀本部・陸地測量部 【備考】 沖大東島14号（共1面）軍事極秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/401'>『沖大東島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/401/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.9736153676257,
+    24.31422903735881,
+    131.27787893880833,
+    24.534143513219572
+  ]
+}

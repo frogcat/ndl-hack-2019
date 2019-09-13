@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『根室南部』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 根室南部 【測量時期】 大正11年測図 【発行時期】 昭和11年1月発行 【記号】 根室近傍3号（共11面） 【測量機関】 参謀本部・陸地測量部 【備考】 根室5号（共5面）　仮製版　軍事極秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1366'>『根室南部』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1366/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    145.4231595119284,
+    43.149407684173546,
+    145.79127370475044,
+    43.36040282952977
+  ]
+}

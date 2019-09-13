@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "24_EL GHARAQ EL SULUTANI",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3828'>24_EL GHARAQ EL SULUTANI</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3828/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    30.228891993537946,
+    28.820988144070927,
+    30.84978435564209,
+    29.188599591487286
+  ]
+}

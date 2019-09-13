@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "39_KOM OMBO",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3841'>39_KOM OMBO</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3841/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    32.620611782342465,
+    24.085521650951435,
+    33.225734978274836,
+    24.515194926169688
+  ]
+}

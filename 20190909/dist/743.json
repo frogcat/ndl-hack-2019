@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『師崎』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 師崎 【測量時期】 明治23年測図/大正9年修正 【発行時期】 大正12年1月発行 【記号】 名古屋4号（共16面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/743'>『師崎』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/743/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    136.69802882759785,
+    34.643486446908504,
+    137.03244272807513,
+    34.865880780412546
+  ]
+}

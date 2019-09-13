@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "京都市細図",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/148'>京都市細図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/148/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.7223365908252,
+    35.00702054614824,
+    135.79349938258838,
+    35.046017967881035
+  ]
+}

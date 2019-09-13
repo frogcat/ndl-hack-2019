@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『栃木』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 栃木 【測量時期】 明治40年測図/昭和4年第2回修正/昭和9年要部修正 【発行時期】 昭和15年12月発行 【記号】 宇都宮6号（共16面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/974'>『栃木』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/974/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.44641535227302,
+    36.31797832339176,
+    139.78032180349834,
+    36.52661495103189
+  ]
+}

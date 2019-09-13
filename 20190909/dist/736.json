@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『播州赤穂』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 播州赤穂 【測量時期】 明治28年測図/大正5年第2回修正/昭和24年応急修正 【発行時期】 昭和35年9月発行 【記号】 姫路12号（共16面） 【測量機関】 国土地理院 【備考】 応急修正版",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/736'>『播州赤穂』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/736/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    134.20386052575918,
+    34.65026413407414,
+    134.5316525309791,
+    34.857742316248554
+  ]
+}

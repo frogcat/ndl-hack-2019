@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『海南』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 海南 【測量時期】 明治43年測図の縮図/明治44年測図/昭和9年第2回修正、測図の縮図 【発行時期】 昭和16年7月発行 【記号】 由良要塞近傍5号（共10面） 【測量機関】 参謀本部 【備考】 和歌山16号（共16面）　軍事極秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/655'>『海南』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/655/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    134.95977459071338,
+    33.98481882115822,
+    135.28513962731725,
+    34.19201860668943
+  ]
+}

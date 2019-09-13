@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『奥尻西南部』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 奥尻西南部 【測量時期】 大正6年測圖 【発行時期】  【記号】 久遠十二号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1254'>『奥尻西南部』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1254/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.1815049100142,
+    41.9802361474419,
+    139.54908913013503,
+    42.199113079733095
+  ]
+}

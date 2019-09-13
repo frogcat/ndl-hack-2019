@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『幾春別岳』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 幾春別岳 【測量時期】 大正8年測圖 【発行時期】  【記号】 夕張岳十三号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1356'>『幾春別岳』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1356/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.92572507781765,
+    43.149806043714385,
+    142.30068168731736,
+    43.35899286658094
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『大樹』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 大樹 【測量時期】 大正9年測圖/昭和8年鐡道補入 【発行時期】  【記号】 広尾十号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1284'>『大樹』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1284/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    143.19508425676347,
+    42.318176163641375,
+    143.53343697726046,
+    42.52492670455776
+  ]
+}

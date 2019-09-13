@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『根羽』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 根羽 【測量時期】 明治41年測図/昭和8年要部修正 【発行時期】 昭和11年3月発行 【記号】 豊橋5号（共16面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/822'>『根羽』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/822/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    137.44471450171866,
+    35.141187837840306,
+    137.78675889045883,
+    35.3670719516504
+  ]
+}

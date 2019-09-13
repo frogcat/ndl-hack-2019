@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『斜里』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 斜里 【測量時期】 大正13年測圖/昭和19年部分修正測圖 【発行時期】  【記号】 斜里五号 【測量機関】 参謀本部 【備考】 軍事祕密（戦地ニ限リ極祕）",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1425'>『斜里』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1425/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    144.43809602428033,
+    43.818027166630465,
+    144.81518698036234,
+    44.02618061383621
+  ]
+}

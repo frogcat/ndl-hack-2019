@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "都市計画図H23",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1720'>都市計画図H23</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1720/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.71123935876852,
+    34.46876228129861,
+    135.77574516153416,
+    34.54032907730815
+  ]
+}

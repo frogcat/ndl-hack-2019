@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『八代』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1551'>『八代』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1551/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    129.83015436291026,
+    31.913939495412585,
+    131.0977520435236,
+    32.77218048393277
+  ]
+}

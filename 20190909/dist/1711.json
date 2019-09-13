@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "中之条町　泥流",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1711'>中之条町　泥流</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1711/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    138.80164921500997,
+    36.551714748150395,
+    138.87196402261313,
+    36.608550891028855
+  ]
+}

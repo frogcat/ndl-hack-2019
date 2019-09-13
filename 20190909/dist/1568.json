@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『久遠』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1568'>『久遠』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1568/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    138.73931378450783,
+    41.90612553923477,
+    140.19809573797983,
+    42.76090682969975
+  ]
+}

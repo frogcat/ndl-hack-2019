@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "test_kyoto",
+  "description": "JADH0829_kyoto",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3901'>test_kyoto</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3901/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.46710872581082,
+    34.996296825604915,
+    135.80630005262577,
+    35.07184066706739
+  ]
+}

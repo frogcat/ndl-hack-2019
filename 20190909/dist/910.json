@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『木曽福島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 木曽福島 【測量時期】 明治44年測図/昭和6年修正 【発行時期】  【記号】 飯田5号（共16面） 【測量機関】 内務省地理調査所 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/910'>『木曽福島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/910/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    137.4546885770705,
+    35.8150834492898,
+    137.78016146086978,
+    36.029643180575135
+  ]
+}

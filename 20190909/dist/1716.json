@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "立命館大学朱雀キャンパスアクセスマップ",
+  "description": "http://www.ritsumei.ac.jp/image.jsp?id=227610",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1716'>立命館大学朱雀キャンパスアクセスマップ</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1716/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.73936777072404,
+    35.0067846111148,
+    135.74799227950317,
+    35.013696032533694
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『相川』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1631'>『相川』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1631/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    137.7759157493824,
+    37.918625963758444,
+    139.1437287778237,
+    38.76985317180324
+  ]
+}

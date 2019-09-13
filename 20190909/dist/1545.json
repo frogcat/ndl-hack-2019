@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『与論島』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1545'>『与論島』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1545/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    127.91784421335025,
+    26.592994665455954,
+    129.1114805996334,
+    27.43681741624337
+  ]
+}

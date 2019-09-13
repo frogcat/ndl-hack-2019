@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『芽登温泉』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 茅登温泉 【測量時期】 大正9年測図 【発行時期】 大正11年5月発行 【記号】 淕別12号（共16面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1375'>『芽登温泉』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1375/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    143.1786999533883,
+    43.3124532078426,
+    143.5517865607412,
+    43.52995315299563
+  ]
+}

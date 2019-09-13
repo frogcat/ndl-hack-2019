@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『修善寺』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 修善寺 【測量時期】 明治20年測図/大正15年第2回修正 【発行時期】  【記号】 静岡3号（共15面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/772'>『修善寺』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/772/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    138.69826575884463,
+    34.81756165116205,
+    139.0284283230474,
+    35.02767696778503
+  ]
+}

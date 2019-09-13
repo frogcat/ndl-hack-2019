@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『御殿場』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 御殿場 【測量時期】 明治19年測図の縮図/大正4年修正、測図の縮図/昭和7年第3回部分修正、測図の縮図 【発行時期】 昭和21年11月発行 【記号】 静岡1号（共15面） 【測量機関】 内務省地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/827'>『御殿場』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/827/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    138.69426531615522,
+    35.14399764141563,
+    139.03379341088092,
+    35.36510206574936
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『粟島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 粟島 【測量時期】 大正2年測図/昭和9年修正 【発行時期】 昭和11年8月発行 【記号】 村上14号（共12面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1125'>『粟島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1125/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    138.94571583926938,
+    38.317307055794885,
+    139.28742348738345,
+    38.52166865656787
+  ]
+}

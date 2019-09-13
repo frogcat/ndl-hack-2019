@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『八雲』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 遊楽部岳 【測量時期】 大正6年測圖 【発行時期】  【記号】 室蘭十五号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1267'>『八雲』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1267/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.18080529879933,
+    42.15001829991286,
+    140.54429828586964,
+    42.35719993416698
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『四ッ谷』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 四ツ谷 【測量時期】 明治26年測図/大正11年修正 【発行時期】  【記号】 京都及大阪5号（共16面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/814'>『四ッ谷』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/814/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.45301432803836,
+    35.146178570877524,
+    135.7806050412393,
+    35.36290911557139
+  ]
+}

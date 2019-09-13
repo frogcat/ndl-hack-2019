@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『与那国島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 与那国島 【測量時期】 大正10年測圖 【発行時期】 昭和11年発行 【記号】 先島群島十九号 【測量機関】 陸地測量部・参謀本部 【備考】 軍事極祕（戦地ニ在りテハ軍事祕密トス）",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/399'>『与那国島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/399/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    122.97446177526074,
+    24.311763242457793,
+    123.2787903513907,
+    24.536260640761128
+  ]
+}

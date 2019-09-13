@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『村岡』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 村岡 【測量時期】 明治31年測図/昭和7年修正 【発行時期】 昭和10年2月発行 【記号】 鳥取8号（共9面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/840'>『村岡』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/840/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    134.44972440345026,
+    35.31666181680572,
+    134.78030967329008,
+    35.525136247951885
+  ]
+}

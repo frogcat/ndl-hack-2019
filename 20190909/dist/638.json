@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『伊島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 伊島 【測量時期】 明治40年測図/昭和9年修正 【発行時期】 昭和11年6月発行 【記号】 由良要塞近傍8号（共10面） 【測量機関】 陸地測量部 【備考】 剣山1号（共12面）　軍事極秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/638'>『伊島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/638/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    134.71129330040648,
+    33.81156071924722,
+    135.03810999218936,
+    34.02200824861295
+  ]
+}

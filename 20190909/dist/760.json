@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『龍野』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 龍野 【測量時期】 明治28年測図/大正12年第2回修正/昭和7年鉄道補入 【発行時期】  【記号】 姫路7号（共16面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/760'>『龍野』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/760/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    134.45345199291512,
+    34.81799468156178,
+    134.78204670424913,
+    35.02482962567123
+  ]
+}

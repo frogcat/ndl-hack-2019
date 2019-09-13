@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "被害状況図（1935年京都市大水害）",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1714'>被害状況図（1935年京都市大水害）</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1714/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.61112790581524,
+    34.877871714067105,
+    135.8788601919219,
+    35.12657811287225
+  ]
+}

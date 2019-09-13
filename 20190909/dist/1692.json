@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "京都府庁",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1692'>京都府庁</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1692/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.75047858025528,
+    35.01714738055593,
+    135.76281212998853,
+    35.02392982361711
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "天保四年癸巳春改正新板京都絵図",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/21'>天保四年癸巳春改正新板京都絵図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/21/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.72813016759267,
+    34.959284383404075,
+    135.79204620617836,
+    35.0561018226767
+  ]
+}

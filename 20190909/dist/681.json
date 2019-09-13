@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『萩』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 萩 【測量時期】 明治32年測圖/昭和2年要部修正測圖/昭和7年鐡道補入/昭和15年部分修正測圖 【発行時期】  【記号】 山口十号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/681'>『萩』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/681/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    131.19820540677466,
+    34.3149425343871,
+    131.5306686192427,
+    34.52675903381751
+  ]
+}

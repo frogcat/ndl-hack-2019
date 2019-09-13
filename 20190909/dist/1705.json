@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "下京区第拾壱組善長寺町全図",
+  "description": "京都府立京都学・歴彩館所蔵\r\n下京区地籍図",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1705'>下京区第拾壱組善長寺町全図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1705/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.7557443398612,
+    35.00165054321847,
+    135.7589309969038,
+    35.00337689328238
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『岩ヶ崎』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 岩崎 【測量時期】 大正2年測図/昭和9年修正 【発行時期】  【記号】 新庄4号（共16面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1149'>『岩ヶ崎』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1149/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.69620286316194,
+    38.651526113948776,
+    141.0418252870134,
+    38.8582157019693
+  ]
+}

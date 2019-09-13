@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『馬路』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 馬路 【測量時期】 明治40年測圖/昭和8年修正測圖 【発行時期】  【記号】 剣山十五号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/608'>『馬路』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/608/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    133.95450089334906,
+    33.483468202214326,
+    134.280622676026,
+    33.69196454865844
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "20190829_ogawa",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3914'>20190829_ogawa</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3914/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.6890665193538,
+    34.909990462154205,
+    135.79630908588246,
+    35.095000448487355
+  ]
+}

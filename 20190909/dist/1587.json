@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『紋別』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1587'>『紋別』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1587/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    142.7804489175155,
+    43.90493778268142,
+    144.14871649308535,
+    44.76726280483984
+  ]
+}

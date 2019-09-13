@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "文久改正",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/213'>文久改正</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/213/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.62012627843043,
+    34.85884432653016,
+    135.83285171133497,
+    35.071569759434695
+  ]
+}

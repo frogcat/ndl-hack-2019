@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "34_QENA",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3845'>34_QENA</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3845/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    32.34568253529859,
+    25.92632151458739,
+    32.954135636802725,
+    26.2956090625543
+  ]
+}

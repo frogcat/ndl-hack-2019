@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『犬飼』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 犬飼 【測量時期】 明治35年測図/昭和7年要部修正/昭和23年資料修正 【発行時期】 昭和23年11月発行 【記号】 大分6号（共16面） 【測量機関】 地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/553'>『犬飼』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/553/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    131.46592332826734,
+    32.98392535502448,
+    131.79085415130493,
+    33.19401913255634
+  ]
+}

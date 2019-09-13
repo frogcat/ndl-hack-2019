@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <title>leaflet-boilerplate</title>
+  <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0" />
+  <link rel="stylesheet" href="https://unpkg.com/leaflet@1.5.1/dist/leaflet.css" />
+  <script src="https://unpkg.com/leaflet@1.5.1/dist/leaflet.js"></script>
+  <script>
+    L.tileLayer.tilejson = function(tilejson, option) {
+
+      var opt = {};
+      if (tilejson.attribution) opt.attribution = tilejson.attribution;
+      if (tilejson.scheme === "tms") opt.tms = true;
+      if (tilejson.minzoom !== undefined) opt.minZoom = tilejson.minZoom;
+      if (tilejson.maxzoom !== undefined) opt.maxNativeZoom = tilejson.maxzoom;
+      if (tilejson.bounds !== undefined) opt.bounds = L.latLngBounds(
+        L.latLng(tilejson.bounds[1], tilejson.bounds[0]),
+        L.latLng(tilejson.bounds[3], tilejson.bounds[2])
+      );
+      if (tilejson.center !== undefined) {
+        opt.center = L.latLng(tilejson.center[1], tilejson.center[0]);
+        opt.zoom = tilejson.center[2];
+      }
+
+      if (option) Object.assign(opt, option);
+
+      var layer = L.tileLayer(tilejson.tiles[0], opt);
+      if (tilejson.tiles.length > 1)
+        layer.getTileUrl = function(coords) {
+          var data = {
+            x: coords.x,
+            y: coords.y,
+            z: this._getZoomForUrl()
+          };
+          if (this._map && !this._map.options.crs.infinite && this.options.tms)
+            data['y'] = this._globalTileRange.max.y - coords.y;
+          var url = tilejson.tiles[Math.floor(tilejson.tiles.length * Math.random())];
+          return Util.template(url, data);
+        };
+      return layer;
+    };
+  </script>
+</head>
+
+<body>
+  <div id="map" style="position:absolute;top:0;left:0;bottom:0;right:0;"></div>
+  <script>
+    var path = "habs.json";
+    if (location.search.match(/^\?([0-9]+)$/))
+      path = "dist/" + RegExp.$1 + ".json";
+
+    fetch(path).then(a => a.json()).then(tilejson => {
+
+      var map = L.map("map");
+      map.zoomControl.setPosition("bottomright");
+      var layer = L.tileLayer.tilejson(tilejson).addTo(map);
+
+      if (layer.options.center !== undefined) map.setView(layer.options.center, layer.options.zoom);
+      else if (layer.options.bounds) map.fitBounds(layer.options.bounds);
+      else map.fitWorld();
+    });
+  </script>
+</body>
+
+</html>

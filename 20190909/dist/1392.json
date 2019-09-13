@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『屈斜路湖』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 屈斜路湖 【測量時期】 大正13年測圖/昭和7年鐡道補入 【発行時期】  【記号】 斜里十一号 【測量機関】 参謀本部 【備考】 祕　假製版",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1392'>『屈斜路湖』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1392/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    144.19396713255077,
+    43.485525852325445,
+    144.5407825653179,
+    43.692144253352595
+  ]
+}

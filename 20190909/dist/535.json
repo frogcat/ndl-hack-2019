@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『玉名』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 高瀬 【測量時期】 明治33年測圖/大正15年第二回修正測圖/昭和6年部分修正測圖 【発行時期】  【記号】 熊本七号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/535'>『玉名』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/535/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.44989196560618,
+    32.81590066738683,
+    130.77866118099826,
+    33.02959851613067
+  ]
+}

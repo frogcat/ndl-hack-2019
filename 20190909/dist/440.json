@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『諏訪之瀬島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 臥蛇島 【測量時期】 昭和5年測圖（海上寫眞測量） 【発行時期】 昭和11年発行 【記号】 奄美大島要塞近傍一号 【測量機関】 陸地測量部・参謀本部 【備考】 軍事極祕（戦地ニ在りテハ軍事祕密トス）　假製版",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/440'>『諏訪之瀬島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/440/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    129.4679446248218,
+    29.810859171462393,
+    129.78513951423804,
+    30.030789874556064
+  ]
+}

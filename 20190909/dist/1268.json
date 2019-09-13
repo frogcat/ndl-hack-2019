@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『室蘭』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 室蘭 【測量時期】 大正6年測図/昭和19年部分修正（空中写真測図） 【発行時期】 昭和21年11月発行 【記号】 室蘭3号（共14面） 【測量機関】 内務省地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1268'>『室蘭』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1268/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.69554690629752,
+    42.149327922461964,
+    141.0611118938657,
+    42.36236872193546
+  ]
+}

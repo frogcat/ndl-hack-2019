@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『陸中野田』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 陸中野田 【測量時期】 大正3年測図 【発行時期】 大正6年4月発行 【記号】 八戸4号（共15面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1214'>『陸中野田』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1214/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.68683651358197,
+    39.98437073409281,
+    142.0411722441098,
+    40.191699700676516
+  ]
+}

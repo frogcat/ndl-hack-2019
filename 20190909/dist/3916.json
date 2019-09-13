@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "新増細見京絵図大全：京都中心街",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3916'>新増細見京絵図大全：京都中心街</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3916/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.72260822345058,
+    34.95705520460757,
+    135.79250148632332,
+    35.055076678213595
+  ]
+}

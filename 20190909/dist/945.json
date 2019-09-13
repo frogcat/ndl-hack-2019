@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『西郷』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 西郷 【測量時期】 大正元年測圖/昭和9年測圖 【発行時期】  【記号】 西郷十一号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/945'>『西郷』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/945/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    133.1932550933215,
+    36.148628701179575,
+    133.5330723802161,
+    36.364322932520906
+  ]
+}

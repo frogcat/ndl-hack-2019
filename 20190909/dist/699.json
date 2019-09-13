@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『鳥羽』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 鳥羽 【測量時期】 明治23年測図/大正9年修正/昭和19年部分修正 【発行時期】  【記号】 宇治山田2号（共14面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/699'>『鳥羽』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/699/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    136.7020522133137,
+    34.31126268371104,
+    137.03562253515705,
+    34.53108929129407
+  ]
+}

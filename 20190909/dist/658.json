@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『三宅島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】   【測量時期】   【発行時期】   【記号】   【測量機関】   【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/658'>『三宅島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/658/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.44924324847864,
+    33.98343514548341,
+    139.78128646547358,
+    34.19630960868468
+  ]
+}

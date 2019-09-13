@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『新庄』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1558'>『新庄』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1558/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.77837011032946,
+    38.58926123931531,
+    141.1525207259372,
+    39.43686984117173
+  ]
+}

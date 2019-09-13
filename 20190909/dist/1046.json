@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『穴水』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 穴水 【測量時期】 明治43年測図/昭和4年修正 【発行時期】 昭和11年12月発行 【記号】 七尾1号（共7面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1046'>『穴水』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1046/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    136.70291657084817,
+    37.148856860353916,
+    137.0304392198083,
+    37.36199953788404
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『小田原』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 小田原 【測量時期】 明治18年測図/明治20年測図/明治39年測図の縮図/昭和8年第2回修正 【発行時期】  【記号】 横須賀13号 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/828'>『小田原』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/828/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    138.9492708868643,
+    35.14925477911551,
+    139.28311529357953,
+    35.36092373964034
+  ]
+}

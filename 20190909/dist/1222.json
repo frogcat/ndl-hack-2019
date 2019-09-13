@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『中浜』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 中浜 【測量時期】 大正3年測図/昭和14年修正 【発行時期】 昭和16年1月発行 【記号】 弘前14号（共16面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1222'>『中浜』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1222/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.9326734826375,
+    40.31679673013727,
+    140.29163092008213,
+    40.524930936837166
+  ]
+}

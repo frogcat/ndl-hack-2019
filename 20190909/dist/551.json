@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『宮原』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 宮原 【測量時期】 明治36年測圖/昭和2年要部修正測圖 【発行時期】 昭和4年発行 【記号】 大分十四号 【測量機関】 大日本帝國陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/551'>『宮原』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/551/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.9506893534396,
+    32.98207358597761,
+    131.278957663888,
+    33.195873449497476
+  ]
+}

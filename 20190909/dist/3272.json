@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "Kyōto shinchizu.",
+  "description": "【Courtesy of the C. V. Starr East Asian Library University of California, Berkeley】  Japanese date Meiji 26 [1893]. In color. Folded. Cover title. Lithograph print. In Japanese. Oriented with north to the left. Relief shown pictorially. Includes distance chart and legend. Extension pasted on the top of map.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3272'>Kyōto shinchizu.</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3272/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.72184761027978,
+    34.96216512166475,
+    135.8095205054871,
+    35.054386323193846
+  ]
+}

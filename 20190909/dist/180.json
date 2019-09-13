@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "改訂版　京都地図",
+  "description": "説明",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/180'>改訂版　京都地図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/180/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.70405486573594,
+    34.94165247678754,
+    135.81236600425052,
+    35.065125279486146
+  ]
+}

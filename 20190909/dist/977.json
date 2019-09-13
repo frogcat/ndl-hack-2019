@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『水戸』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 水戸 【測量時期】 明治36年測図/昭和15年第2回修正、測図の縮図/昭和27年応急修正 【発行時期】 昭和34年6月発行 【記号】 水戸10号（共12面） 【測量機関】 国土地理院 【備考】 応急修正版",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/977'>『水戸』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/977/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.19311460311977,
+    36.31070524922815,
+    140.53432979255206,
+    36.5311718807531
+  ]
+}

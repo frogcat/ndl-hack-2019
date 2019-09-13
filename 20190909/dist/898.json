@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『五日市』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 五日市 【測量時期】 明治40年測図/昭和34年部分修正 【発行時期】 昭和36年8月発行 【記号】 東京14号（共16面） 【測量機関】 国土地理院 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/898'>『五日市』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/898/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    138.9466723046772,
+    35.64369039643492,
+    139.28187811324548,
+    35.86468408115539
+  ]
+}

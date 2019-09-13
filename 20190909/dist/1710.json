@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "下京第三組衣棚町全図",
+  "description": "京都府立京都学・歴彩館所蔵\r\n下京地籍図\r\n",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1710'>下京第三組衣棚町全図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1710/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.755813870374,
+    35.007987775283674,
+    135.75861444016786,
+    35.00926631805898
+  ]
+}

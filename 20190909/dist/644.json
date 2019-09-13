@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『徳山』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 徳山 【測量時期】 明治32年測図/昭和2年修正/昭和7年鉄道補入/昭和24年資料修正 【発行時期】 昭和24年3月発行 【記号】 山口4号（共15面） 【測量機関】 地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/644'>『徳山』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/644/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    131.69732047015128,
+    33.980689060921215,
+    132.0302255763788,
+    34.195787050099995
+  ]
+}

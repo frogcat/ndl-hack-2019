@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『脊振山』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 背振山 【測量時期】 明治33年測圖之縮圖/昭和11年第三回修正測圖及修正測圖之縮圖/昭和13年測圖之縮圖 【発行時期】  【記号】 小倉十二号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/580'>『脊振山』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/580/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.20041188140092,
+    33.31707058584717,
+    130.5284190053019,
+    33.52839941488727
+  ]
+}

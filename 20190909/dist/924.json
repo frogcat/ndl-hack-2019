@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『浦郷』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 菱 【測量時期】 大正1年測図/昭和9年修正/昭和28年応急修正 【発行時期】 昭和34年8月発行 【記号】 西郷16号（共4面） 【測量機関】 国土地理院 【備考】 応急修正版",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/924'>『浦郷』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/924/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    132.94524215017873,
+    35.97789007965193,
+    133.28396987118325,
+    36.198380587119
+  ]
+}

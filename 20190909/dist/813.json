@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『綾部』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 綾部 【測量時期】 明治26年測図/大正9年修正 【発行時期】 大正14年6月発行 【記号】 舞鶴要塞近傍6号（共10面） 【測量機関】 参謀本部 【備考】 京都及大阪9号（共16面）軍事極秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/813'>『綾部』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/813/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.21458346874547,
+    35.15025035665734,
+    135.5428523715289,
+    35.362838182617864
+  ]
+}

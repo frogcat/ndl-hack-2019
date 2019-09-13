@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "18_SUEZ ROAD",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3823'>18_SUEZ ROAD</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3823/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    31.400303635448076,
+    29.87477337595022,
+    32.1617618608415,
+    30.300560506078575
+  ]
+}

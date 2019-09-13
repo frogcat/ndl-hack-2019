@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "kyoto taika",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/137'>kyoto taika</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/137/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.67012065273536,
+    35.015644352766905,
+    135.7693071797463,
+    35.050003176798505
+  ]
+}

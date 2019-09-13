@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "testtestaaa",
+  "description": "aaa",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/223'>testtestaaa</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/223/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    146.7665342535056,
+    44.59663764698007,
+    148.16104861598015,
+    45.4211640722358
+  ]
+}

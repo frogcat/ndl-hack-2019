@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『象潟』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 象潟 【測量時期】 大正2年測図/昭和9年修正 【発行時期】 昭和21年11月発行 【記号】 酒田1号（共6面） 【測量機関】 内務省地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1167'>『象潟』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1167/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.68657901233075,
+    39.15079486568636,
+    140.03585113934858,
+    39.35974371932205
+  ]
+}

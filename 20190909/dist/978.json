@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『ひたちなか』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】   【測量時期】   【発行時期】   【記号】   【測量機関】   【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/978'>『ひたちなか』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/978/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.44972131778835,
+    36.317789792898736,
+    140.78194734903195,
+    36.52656355121399
+  ]
+}

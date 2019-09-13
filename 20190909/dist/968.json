@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『槍ヶ岳』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 槍ヶ嶽 【測量時期】 大正元年測圖/昭和5年修正測圖（地上寫真測量併用） 【発行時期】 昭和7年発行 【記号】 高山六号 【測量機関】 大日本帝國陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/968'>『槍ヶ岳』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/968/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    137.44301643082824,
+    36.31105323150682,
+    137.78268082556988,
+    36.52987211532258
+  ]
+}

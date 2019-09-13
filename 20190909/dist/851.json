@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『恵那』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 岩村 【測量時期】 明治44年測圖/昭和8年要部修正測圖 【発行時期】  【記号】 飯田十二号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/851'>『恵那』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/851/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    137.19257732633213,
+    35.30767767295847,
+    137.53379583761026,
+    35.534389539512695
+  ]
+}

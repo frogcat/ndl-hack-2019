@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『日向』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 富高 【測量時期】 明治35年測圖/昭和7年要部修正測圖 【発行時期】 昭和10年発行 【記号】 延岡六号 【測量機関】 大日本帝國陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/505'>『日向』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/505/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    131.45633669362834,
+    32.31689723707853,
+    131.77922205600754,
+    32.52660584574807
+  ]
+}

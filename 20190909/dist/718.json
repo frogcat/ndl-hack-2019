@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『伊良湖岬』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 伊良湖岬 【測量時期】 明治23年測図/昭和15年第2回修正/昭和24年応急修正 【発行時期】 昭和25年10月発行 【記号】 伊良湖岬13号（共3面） 【測量機関】 地理調査所 【備考】 応急修正版",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/718'>『伊良湖岬』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/718/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    136.9479692004415,
+    34.47676156881485,
+    137.2808112963733,
+    34.69875686030064
+  ]
+}

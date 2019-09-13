@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『水海道』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 水海道 【測量時期】 明治40年測図/昭和4年修正/昭和35年部分修正 【発行時期】  【記号】 宇都宮4号（共16面） 【測量機関】 国土地理院 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/940'>『水海道』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/940/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.6964632994571,
+    35.97894945474316,
+    140.03045243126155,
+    36.19691991665356
+  ]
+}

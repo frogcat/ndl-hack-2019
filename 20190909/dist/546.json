@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『佐世保南部』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 蠣ノ浦 【測量時期】 明治34年測図/大正13年修正/昭和20年部分修正 【発行時期】 昭和23年3月発行 【記号】 長崎6号（共15面） 【測量機関】 地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/546'>『佐世保南部』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/546/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    129.45877268687255,
+    32.981708659610966,
+    129.79315768324153,
+    33.19788667735054
+  ]
+}

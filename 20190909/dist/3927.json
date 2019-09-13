@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "寛政水戸領絵図",
+  "description": "https://www.lib.pref.ibaraki.jp/guide/shiryou/digital_lib/valuable_m/001051194692/Bibliography.html",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3927'>寛政水戸領絵図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3927/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.06119583385845,
+    35.86994285722491,
+    140.79656592907534,
+    37.24741320122325
+  ]
+}

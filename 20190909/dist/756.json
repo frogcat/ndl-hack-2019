@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『呰部』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 下呰部 【測量時期】 明治31年測圖/昭和7年要部修正測圖 【発行時期】  【記号】 高梁七号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/756'>『呰部』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/756/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    133.45072505926996,
+    34.81681015916943,
+    133.78264392371403,
+    35.026901942048006
+  ]
+}

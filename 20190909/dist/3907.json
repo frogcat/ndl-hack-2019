@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "test_taipei",
+  "description": "JADH",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3907'>test_taipei</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3907/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    121.3784920798831,
+    24.959848662933176,
+    121.68231521885004,
+    25.1860074003237
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『西大寺』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 西大寺 【測量時期】 明治30年測図/大正14年第2回修正/昭和3年部分修正 【発行時期】  【記号】 徳島13号（共14面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/712'>『西大寺』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/712/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    133.95202367144586,
+    34.48321691321355,
+    134.2816118382208,
+    34.69253171571072
+  ]
+}

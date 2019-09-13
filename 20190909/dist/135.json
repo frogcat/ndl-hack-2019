@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "文化改正／新増細見京絵図",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/135'>文化改正／新増細見京絵図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/135/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.7202660479046,
+    34.95235793426976,
+    135.79466355062706,
+    35.06003754400356
+  ]
+}

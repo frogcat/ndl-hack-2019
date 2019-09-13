@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "水戸藩江戸期水戸武士小路明細図上市の部",
+  "description": "茨城県立図書館デジタルライブラリー\r\nhttps://www.lib.pref.ibaraki.jp/guide/shiryou/digital_lib/valuable_m/001051354916/Bibliography.html\r\nより引用",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3909'>水戸藩江戸期水戸武士小路明細図上市の部</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3909/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.45111007189286,
+    36.366500382524904,
+    140.48494738770964,
+    36.38891199695203
+  ]
+}

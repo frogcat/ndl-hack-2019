@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『柏島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 柏島 【測量時期】 明治39年測図/昭和8年修正 【発行時期】 昭和21年11月発行 【記号】 宇和島8号（共13面） 【測量機関】 地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/526'>『柏島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/526/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    132.4537292460711,
+    32.64534565072192,
+    132.77883718332288,
+    32.865816255282205
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "14_ZAGAZIG",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3818'>14_ZAGAZIG</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3818/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    31.449521499347753,
+    30.26964107522866,
+    32.12276548615071,
+    30.63394893876242
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "御所検地絵図",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3896'>御所検地絵図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3896/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.7349891712771,
+    34.46022297902436,
+    135.74390937171927,
+    34.46370939539435
+  ]
+}

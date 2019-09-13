@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "京大2",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1508'>京大2</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1508/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.74542685665602,
+    34.96910482206761,
+    135.7848920218496,
+    34.99496003776919
+  ]
+}

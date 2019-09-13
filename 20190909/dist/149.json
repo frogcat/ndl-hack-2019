@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "京都市明細全圖　附名所独案内",
+  "description": "キョウトシメイサイゼンズ　ツケタリメイショヒトリアンナイ\r\n\r\n大谷津逮堂\r\n50×72 (cm)\r\n1893.06",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/149'>京都市明細全圖　附名所独案内</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/149/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.7011794717302,
+    34.95076414299924,
+    135.81745308041243,
+    35.06629774462543
+  ]
+}

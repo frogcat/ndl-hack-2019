@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "17_CAIRO",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3813'>17_CAIRO</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3813/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    30.814185945151507,
+    29.84238566564208,
+    31.508846061353726,
+    30.315748606836095
+  ]
+}

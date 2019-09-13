@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『蘇澳』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1534'>『蘇澳』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1534/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    120.9108755410205,
+    23.912374115892693,
+    122.08865849269945,
+    24.776908354182392
+  ]
+}

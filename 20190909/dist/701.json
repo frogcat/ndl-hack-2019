@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『相島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 相島 【測量時期】 明治32年測図/昭和2年要部修正/昭和7年鉄道補入 【発行時期】 昭和9年8月発行 【記号】 山口9号（共15面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/701'>『相島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/701/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    131.1948375773017,
+    34.479046615310814,
+    131.53461061570425,
+    34.69745345677819
+  ]
+}

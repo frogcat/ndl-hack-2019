@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "2_SHIRBIN",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3825'>2_SHIRBIN</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3825/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    31.473562260581826,
+    30.96302493170157,
+    32.127672513482224,
+    31.343059872177058
+  ]
+}

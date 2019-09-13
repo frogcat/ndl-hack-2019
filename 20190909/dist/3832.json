@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "29_DAIRUT",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3832'>29_DAIRUT</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3832/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    30.54608692622451,
+    27.382927755599866,
+    31.152985054213165,
+    27.745912206606125
+  ]
+}

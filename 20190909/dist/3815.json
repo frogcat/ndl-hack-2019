@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "22_EL FAYUM",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3815'>22_EL FAYUM</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3815/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    30.228171514688317,
+    29.184654030525515,
+    30.848553706555634,
+    29.550275327706036
+  ]
+}

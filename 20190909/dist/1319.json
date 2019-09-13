@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『石山』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 石切山 【測量時期】 大正6年測圖/昭和10年修正測圖及修正測圖之縮圖 【発行時期】  【記号】 札幌十一号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1319'>『石山』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1319/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.17541348472037,
+    42.81204554578583,
+    141.5462941377087,
+    43.03025765411733
+  ]
+}

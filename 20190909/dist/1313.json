@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『浦幌』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 浦幌 【測量時期】 大正9年測圖 【発行時期】  【記号】 帯広八号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1313'>『浦幌』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1313/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    143.4256023750068,
+    42.65105633839827,
+    143.79422238541883,
+    42.858605431217214
+  ]
+}

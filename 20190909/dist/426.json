@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『伊平屋後島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 伊平屋後島 【測量時期】 大正10年測圖 【発行時期】 昭和11年発行 【記号】 沖縄郡島七号 【測量機関】 陸地測量部・参謀本部 【備考】 軍事極祕（戦地ニ在りテハ軍事祕密トス）",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/426'>『伊平屋後島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/426/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    127.72263803762118,
+    26.985879299206363,
+    128.03195935436506,
+    27.200537802044664
+  ]
+}

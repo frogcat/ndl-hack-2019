@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『飯山』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 飯山 【測量時期】 明治44年測図/昭和5年修正 【発行時期】  【記号】 高田11号（共15面） 【測量機関】 内務省地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1019'>『飯山』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1019/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    138.19289360613558,
+    36.809984787495075,
+    138.5310451177691,
+    37.02769272637286
+  ]
+}

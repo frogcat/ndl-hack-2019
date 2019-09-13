@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『留萌』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 留萌 【測量時期】 大正8年測図/昭和6年鉄道補入 【発行時期】 昭和7年9月発行 【記号】 留萌5号（共11面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1413'>『留萌』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1413/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.427621293701,
+    43.8111398643765,
+    141.8049986457903,
+    44.02951365283928
+  ]
+}

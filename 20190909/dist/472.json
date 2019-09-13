@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『日向青島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 日向青島 【測量時期】 明治35年測図/昭和7年修正/昭和10年部分修正 【発行時期】  【記号】 宮崎10号（共8面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/472'>『日向青島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/472/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    131.2005631940075,
+    31.641791364451954,
+    131.52879434922,
+    31.86882037735469
+  ]
+}

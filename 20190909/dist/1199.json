@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『船川』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 船川 【測量時期】 大正1年測図/大正14年鉄道補入 【発行時期】 昭和2年2月発行 【記号】 男鹿島1号（共2面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1199'>『船川』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1199/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.6856018357014,
+    39.817339114295834,
+    140.0387838727835,
+    40.02604173151408
+  ]
+}

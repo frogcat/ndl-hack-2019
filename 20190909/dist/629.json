@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『光』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 光 【測量時期】 明治32年測図/昭和2年修正/昭和22年応急修正 【発行時期】 昭和32年6月発行 【記号】 中津1号（共13面） 【測量機関】 国土地理院 【備考】 応急修正版",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/629'>『光』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/629/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    131.71206066204064,
+    33.81811790542277,
+    132.03931648803055,
+    34.027425903854166
+  ]
+}

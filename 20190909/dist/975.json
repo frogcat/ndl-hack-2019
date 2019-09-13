@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『壬生』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 壬生 【測量時期】 明治40年測図/昭和4年第2回修正/昭和9年要部修正 【発行時期】  【記号】 宇都宮2号（共16面） 【測量機関】 内務省地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/975'>『壬生』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/975/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.6954010985359,
+    36.31389982554373,
+    140.0325282232894,
+    36.52990976650554
+  ]
+}

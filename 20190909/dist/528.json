@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『土佐清水』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 足摺崎 【測量時期】 明治37年測図/昭和8年修正 【発行時期】 昭和11年4月発行 【記号】 窪川16号（共4面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/528'>『土佐清水』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/528/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    132.9519882423694,
+    32.64798809282527,
+    133.2781718831503,
+    32.86240487532617
+  ]
+}

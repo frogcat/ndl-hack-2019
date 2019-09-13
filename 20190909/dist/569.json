@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『大分』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 大分 【測量時期】 明治36年測図/昭和2年第2回修正、測図の縮図/昭和15年部分修正、測図の縮図/昭和23年資料修正 【発行時期】 昭和25年10月発行 【記号】 大分5号 【測量機関】 地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/569'>『大分』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/569/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    131.46302903546166,
+    33.14766989953661,
+    131.7893238194104,
+    33.355327332952164
+  ]
+}

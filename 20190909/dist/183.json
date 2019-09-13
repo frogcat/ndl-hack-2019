@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "京都市街地",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/183'>京都市街地</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/183/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.72142233177254,
+    35.006544287342464,
+    135.79413996338096,
+    35.046806026877064
+  ]
+}

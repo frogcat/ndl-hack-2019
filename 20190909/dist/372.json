@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "Anken Kyōto saizu [electronic resource] / Ikeda Tōri Shunjin kō narabini zusho",
+  "description": "Mounted cover title.\r\nWood block print.\r\nOriented with north to the left.\r\nIn Japanese.\r\nRelief shown pictorially.\r\nIncludes legend.\r\n",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/372'>Anken Kyōto saizu [electronic resource] / Ikeda Tōri Shunjin kō narabini zusho</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/372/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.71580194193865,
+    34.955182865993805,
+    135.79362010560845,
+    35.06145505652435
+  ]
+}

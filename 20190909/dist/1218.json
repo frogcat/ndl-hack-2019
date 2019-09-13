@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『浄法寺』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 浄法寺 【測量時期】 大正3年測図/昭和8年修正 【発行時期】  【記号】 八戸15号（共15面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1218'>『浄法寺』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1218/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.93514963048145,
+    40.144154090108735,
+    141.29224276856658,
+    40.36196495250935
+  ]
+}

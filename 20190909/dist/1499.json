@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『弟島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】   【測量時期】   【発行時期】   【記号】   【測量機関】   【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1499'>『弟島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1499/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.96946711100242,
+    27.14678008312407,
+    142.278816438466,
+    27.367355303026162
+  ]
+}

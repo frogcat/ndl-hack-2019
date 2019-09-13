@@ -1,0 +1,15 @@
+{
+  "tilejson": "2.2.0",
+  "name": "歴史的農業景観閲覧システム",
+  "description": "「第一軍管区地方2万分1迅速測図原図」及び、その他のデータをWeb上で閲覧できる様に公開しています。",
+  "version": "1.0.0",
+  "attribution": "<a href='http://www.naro.affrc.go.jp/laboratory/niaes/'>農研機構農業環境変動研究センター</a>",
+  "scheme": "tms",
+  "tiles": [
+    "https://habs.dc.affrc.go.jp/rapid16/{z}/{x}/{y}.png"
+  ],
+  "minzoom": 8,
+  "maxzoom": 16,
+  "bounds": [138.946917608, 34.8595085149, 140.880359108, 36.465420081],
+  "center": [139.75339, 35.68428, 15]
+}

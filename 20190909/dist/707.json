@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『乃美』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 乃美 【測量時期】 明治31年測図/昭和7年修正 【発行時期】 昭和10年9月発行 【記号】 広島1号（共12面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/707'>『乃美』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/707/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    132.69965101801324,
+    34.4791601911676,
+    133.03064562633097,
+    34.69995265923881
+  ]
+}

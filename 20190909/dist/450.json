@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『開聞岳』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 開聞岳 【測量時期】 明治34年測圖/昭和7年要部修正測圖/昭和10年部分修正測圖 【発行時期】  【記号】 開聞岳五号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/450'>『開聞岳』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/450/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.4548136224031,
+    31.142467159705227,
+    130.777941659493,
+    31.366624348607154
+  ]
+}

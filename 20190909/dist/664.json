@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『長門峡』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 長門峡 【測量時期】 明治32年測図/昭和2年修正 【発行時期】 昭和6年7月発行 【記号】 山口7号（共15面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/664'>『長門峡』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/664/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    131.44892547149234,
+    34.150419222242135,
+    131.77911319081056,
+    34.361556738560665
+  ]
+}

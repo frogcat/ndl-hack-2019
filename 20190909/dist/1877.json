@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "JAPANESE EMPIRE-POLITICAL",
+  "description": "Owned by 立命館大学アート・リサーチセンター 【成立・出版年】 ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1877'>JAPANESE EMPIRE-POLITICAL</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1877/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    113.05407556470244,
+    19.655523296482436,
+    150.42754930993144,
+    52.2505951820248
+  ]
+}

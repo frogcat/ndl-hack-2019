@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『八海山』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 八海山 【測量時期】 大正1年測図/昭和6年要部修正/昭和28年応急修正 【発行時期】 昭和34年8月発行 【記号】 日光14号（共16面） 【測量機関】 国土地理院 【備考】 応急修正版",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1037'>『八海山』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1037/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    138.94245847046332,
+    36.9789198788983,
+    139.28286446447817,
+    37.196814944666144
+  ]
+}

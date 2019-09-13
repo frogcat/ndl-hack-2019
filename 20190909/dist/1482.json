@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『利尻島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 利尻島東南部 【測量時期】 大正12年測圖 【発行時期】  【記号】 天塩十号 【測量機関】 参謀本部 【備考】 祕　假製版",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1482'>『利尻島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1482/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.1726567485211,
+    44.97750829660258,
+    141.5621697109485,
+    45.196735289129165
+  ]
+}

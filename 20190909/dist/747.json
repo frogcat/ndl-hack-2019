@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『掛川』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 掛川 【測量時期】 明治22年測図/大正5年第2回修正/昭和5年鉄道補入 【発行時期】 昭和7年2月発行 【記号】 静岡16号（共15面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/747'>『掛川』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/747/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    137.94673938828294,
+    34.649206178031456,
+    138.28119536731626,
+    34.859830595083295
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『幌筵島』帝國圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1602'>『幌筵島』帝國圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1602/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    154.70106984782183,
+    49.92565776864018,
+    156.17876795265684,
+    50.74965986769388
+  ]
+}

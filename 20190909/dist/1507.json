@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『前橋』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 前橋 【測量時期】 明治40年測図/昭和4年修正/昭和9年要部修正 【発行時期】  【記号】 宇都宮14号 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1507'>『前橋』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1507/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    138.94417420310097,
+    36.31452281662267,
+    139.28625766519042,
+    36.53330439374751
+  ]
+}

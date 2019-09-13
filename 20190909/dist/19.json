@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "京都市細図",
+  "description": "老松が作成し、使用している京都市細図。",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/19'>京都市細図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/19/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.6389619914527,
+    34.88763255132871,
+    135.8329675471936,
+    35.05107892552303
+  ]
+}

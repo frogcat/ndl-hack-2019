@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『篠山』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 篠山 【測量時期】 明治26年測図/大正9年修正/昭和2年鉄道補入 【発行時期】  【記号】 京都及大阪14号（共16面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/785'>『篠山』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/785/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    134.95025831135527,
+    34.978816569575315,
+    135.2784408156991,
+    35.195971941339934
+  ]
+}

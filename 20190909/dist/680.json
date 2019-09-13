@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『仙崎』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 仙崎 【測量時期】 明治30年測図/昭和2年要部修正/昭和7年鉄道補入 【発行時期】 昭和17年12月発行 【記号】 山口14号 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/680'>『仙崎』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/680/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.95816943795262,
+    34.314833841175904,
+    131.29185257350295,
+    34.52728036412232
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『仁位・厳原』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 厳原 【測量時期】 大正1年測図の縮図/昭和10年第2回修正、測図の縮図 【発行時期】 昭和21年10月発行 【記号】 厳原11号（共7面） 【測量機関】 地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/660'>『仁位・厳原』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/660/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    129.21619631817683,
+    34.151175332950906,
+    129.5410509648425,
+    34.35768048039127
+  ]
+}

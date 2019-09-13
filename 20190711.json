@@ -1,0 +1,79 @@
+[{
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "http://example.org/anno1",
+  "type": "Annotation",
+  "motivation": "linking",
+  "body": {
+    "type": "schema:GeoCoordinates",
+    "schema:latitude": 35.0,
+    "schema:longitude": 135.0
+  },
+  "target": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/二子玉川小学校付近空撮2.jpg",
+    "selector": {
+      "type": "SvgSelector",
+      "value": "<svg:svg><svg:circle cx='0' cy='0' r='1'/></svg:svg>"
+    }
+  }
+}, {
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "http://example.org/anno1",
+  "type": "Annotation",
+  "motivation": "linking",
+  "body": {
+    "type": "schema:GeoCoordinates",
+    "schema:latitude": 32.0,
+    "schema:longitude": 140.0
+  },
+  "target": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/二子玉川小学校付近空撮2.jpg",
+    "selector": {
+      "type": "SvgSelector",
+      "value": "<svg:svg><svg:circle cx='640' cy='480' r='1'/></svg:svg>"
+    }
+  }
+}, {
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "http://example.org/anno1",
+  "type": "Annotation",
+  "motivation": "linking",
+  "body": {
+    "type": "schema:GeoCoordinates",
+    "schema:latitude": 35.0,
+    "schema:longitude": 140.0
+  },
+  "target": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/二子玉川小学校付近空撮2.jpg",
+    "selector": {
+      "type": "SvgSelector",
+      "value": "<svg:svg><svg:circle cx='640' cy='0' r='1'/></svg:svg>"
+    }
+  }
+}, {
+  "@context": "http://www.w3.org/ns/anno.jsonld",
+  "id": "http://example.org/anno1",
+  "type": "Annotation",
+  "motivation": "linking",
+  "body": {
+    "type": "TextualBody",
+    "format": "application/geo+json",
+    "value": {
+      "type": "Feature",
+      "geometry": {
+        "type": "MultiPoint",
+        "coordinates": [
+          [135, 35],
+          [140, 32],
+          [140, 35],
+        ]
+      }
+    }
+  },
+  "target": {
+    "source": "https://upload.wikimedia.org/wikipedia/commons/9/9e/二子玉川小学校付近空撮2.jpg",
+    "selector": {
+      "type": "SvgSelector",
+      "value": "<svg:svg><svg:polygon points='0,0 640,480 640,0'/></svg:svg>"
+    }
+  }
+}]

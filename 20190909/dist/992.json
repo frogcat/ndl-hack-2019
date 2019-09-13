@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『宇都宮』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 宇都宮 【測量時期】 明治40年測図/昭和4年第2回修正/昭和8年鉄道補入、測図の縮図 【発行時期】 昭和22年6月発行 【記号】 宇都宮1号（共16面） 【測量機関】 参謀本部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/992'>『宇都宮』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/992/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.69534334080163,
+    36.47818957920495,
+    140.03437363907898,
+    36.69745736896411
+  ]
+}

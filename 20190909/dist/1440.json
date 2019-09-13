@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『宇登呂』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 ウトロ 【測量時期】 大正13年測圖/昭和11年部分修正測圖 【発行時期】  【記号】 網走四号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1440'>『宇登呂』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1440/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    144.6874756040412,
+    43.98374992940227,
+    145.06544212725032,
+    44.19077272042124
+  ]
+}

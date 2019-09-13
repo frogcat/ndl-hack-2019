@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『肥前江島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 肥前江ノ島 【測量時期】 大正13年測図の縮図/大正13年修正/昭和11年部分修正、測図の縮図 【発行時期】 昭和21年10月発行 【記号】 長崎10号（共15面） 【測量機関】 内務省地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/545'>『肥前江島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/545/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    129.2157108432452,
+    32.98184085401163,
+    129.5450269079607,
+    33.19695239927049
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "下京区第拾組傘鉾町全図",
+  "description": "京都府立京都学・歴彩館所蔵\r\n下京区地籍図",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1707'>下京区第拾組傘鉾町全図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1707/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.75279051071203,
+    35.0029053224753,
+    135.7557458287966,
+    35.004818715963964
+  ]
+}

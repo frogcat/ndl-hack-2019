@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『追貝』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 追貝 【測量時期】 大正1年測図/昭和33年要部修正 【発行時期】 昭和35年4月発行 【記号】 日光16号 【測量機関】 国土地理院 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1006'>『追貝』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1006/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    138.94811326357362,
+    36.652175743704696,
+    139.28691113272595,
+    36.85775139990221
+  ]
+}

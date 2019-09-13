@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『山口』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 山口 【測量時期】 明治32年測図の縮図/昭和2年修正、測図の縮図/昭和15年修正、測図の縮図 【発行時期】 昭和16年4月発行 【記号】 山口11号（共15面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/663'>『山口』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/663/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    131.19884064710305,
+    34.15067485373714,
+    131.52720075004345,
+    34.36057538673223
+  ]
+}

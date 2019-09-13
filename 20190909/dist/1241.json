@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『青森東部』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 青森東部 【測量時期】 大正1年測図/昭和14年修正、測図の縮図 【発行時期】  【記号】 青森4号 【測量機関】 内務省地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1241'>『青森東部』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1241/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.68643824314947,
+    40.64440523745956,
+    141.04377328813447,
+    40.86423285569708
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "江戸切絵図（尾張屋版）：今戸箕輪浅草絵図",
+  "description": "江戸時代後期、江戸の詳細地図として発行されたもの。版元は尾張屋清七。\r\n浅草寺周辺から北部を対象とした部分。\r\n※国立国会図書館デジタルコレクションより取得。インターネット公開（保護期間満了・Public Domain）。http://dl.ndl.go.jp/info:ndljp/pid/1286208",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3899'>江戸切絵図（尾張屋版）：今戸箕輪浅草絵図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3899/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.76609455115602,
+    35.693489128498705,
+    139.82239721126876,
+    35.76579413630154
+  ]
+}

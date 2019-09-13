@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『舳倉島』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 舳倉島 【測量時期】 明治43年測図/昭和4年修正 【発行時期】 昭和11年6月発行 【記号】 輪島1号（共3面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1098'>『舳倉島』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1098/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    136.69786906993124,
+    37.81688385546428,
+    137.03325618185826,
+    38.02664086252273
+  ]
+}

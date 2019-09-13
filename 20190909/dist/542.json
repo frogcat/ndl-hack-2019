@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『宿毛』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 宿毛 【測量時期】 明治37年測図/昭和8年修正 【発行時期】 昭和17年12月発行 【記号】 宇和島7号 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/542'>『宿毛』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/542/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    132.46492548868298,
+    32.81780726349158,
+    132.78921520597245,
+    33.02683197381832
+  ]
+}

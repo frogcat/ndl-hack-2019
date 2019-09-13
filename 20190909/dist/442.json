@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『種子島中部』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 浜津脇 【測量時期】 大正10年測図/昭和29年応急修正 【発行時期】 昭和37年10月 【記号】 屋久島1号（共8面） 【測量機関】 国土地理院 【備考】 応急修正版",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/442'>『種子島中部』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/442/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    130.71181927534866,
+    30.474572209067663,
+    131.03866826557845,
+    30.70200200740739
+  ]
+}

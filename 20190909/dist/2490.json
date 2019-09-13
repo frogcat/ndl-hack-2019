@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "Kyoto oyobi fukin kokei zenzu.",
+  "description": "【Courtesy of the C. V. Starr East Asian Library University of California, Berkeley】  In Japanese. Oriented with north to the left. Relief shown pictorially. Includes distance chart, a fare table and a view of a temple. Folded to 27 x 13 cm. Col. East Asian Library call number: F131.",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/2490'>Kyoto oyobi fukin kokei zenzu.</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/2490/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.6599368254841,
+    34.90232684533538,
+    135.775862960838,
+    35.06807031223994
+  ]
+}

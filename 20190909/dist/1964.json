@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "京都出火略図",
+  "description": "Owned by 立命館大学アート・リサーチセンター 【成立・出版年】 嘉永０７(1854) ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1964'>京都出火略図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1964/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.73484351081848,
+    35.01435164181026,
+    135.77689776485693,
+    35.03971837956529
+  ]
+}

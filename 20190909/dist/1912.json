@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "京都明細図",
+  "description": "Owned by 立命館大学アート・リサーチセンター 【成立・出版年】 明治２５(1892) ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1912'>京都明細図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1912/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.67193552365995,
+    34.95801948149555,
+    135.79276809392485,
+    35.11072636996607
+  ]
+}

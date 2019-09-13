@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『生月』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 生月 【測量時期】 大正12年測図の縮図/昭和10年修正、測図の縮図 【発行時期】 昭和21年11月発行 【記号】 唐津12号（共8面） 【測量機関】 地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/577'>『生月』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/577/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    129.21355251033458,
+    33.31594133611406,
+    129.54672650536023,
+    33.52102381053076
+  ]
+}

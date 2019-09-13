@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『抜海』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 抜海 【測量時期】 昭和29年測図 【発行時期】 昭和31年11月発行 【記号】 天塩5号 【測量機関】 地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1490'>『抜海』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1490/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.43167252567912,
+    45.14968533194143,
+    141.81775097382996,
+    45.361782646100195
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『加子母』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 加子母 【測量時期】 明治44年測図/昭和8年要部修正 【発行時期】  【記号】 飯田10号（共16面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/892'>『加子母』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/892/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    137.1998999937843,
+    35.64594567045078,
+    137.53159260195034,
+    35.864480236800794
+  ]
+}

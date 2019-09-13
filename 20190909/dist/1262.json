@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『庶野』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 猿留 【測量時期】 大正9年測圖 【発行時期】  【記号】 広尾十二号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1262'>『庶野』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1262/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    143.20033308473552,
+    41.985167673491816,
+    143.53272417649526,
+    42.19334705286255
+  ]
+}

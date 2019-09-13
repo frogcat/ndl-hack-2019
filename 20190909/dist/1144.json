@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『三瀬』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 三瀬 【測量時期】 大正2年測図/昭和9年修正 【発行時期】  【記号】 酒田8号（共6面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1144'>『三瀬』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1144/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.44385035492323,
+    38.650139149266856,
+    139.78660007999636,
+    38.85788927597677
+  ]
+}

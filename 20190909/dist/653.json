@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『脇町』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 脇町 【測量時期】 明治29年測図/昭和9年第2回修正、測図の縮図 【発行時期】  【記号】 徳島16号（共14面） 【測量機関】 参謀本部 【備考】 秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/653'>『脇町』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/653/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    133.95356282019253,
+    33.98247384521371,
+    134.28192183048847,
+    34.19357412472765
+  ]
+}

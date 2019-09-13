@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『東京西南部』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 東京西南部 【測量時期】 明治42年測図/昭和4年第2回修正/昭和7年要部修正 【発行時期】  【記号】 東京7号（共16面） 【測量機関】 参謀本部 【備考】 仮製版　秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/881'>『東京西南部』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/881/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    139.44647150900283,
+    35.48134960267603,
+    139.78273211912742,
+    35.69391403219125
+  ]
+}

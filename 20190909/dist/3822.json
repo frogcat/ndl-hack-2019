@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "15_ISMAILIYA",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3822'>15_ISMAILIYA</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3822/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    32.09288219866318,
+    30.260523400905925,
+    32.719265162564454,
+    30.627503767731877
+  ]
+}

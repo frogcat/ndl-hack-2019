@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『日和佐』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 日和佐 【測量時期】 明治40年測圖/昭和8年修正測圖 【発行時期】  【記号】 剣山六号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/625'>『日和佐』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/625/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    134.4536702632377,
+    33.648744748140146,
+    134.77977606081797,
+    33.8606121342913
+  ]
+}

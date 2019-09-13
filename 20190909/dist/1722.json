@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "都市計画図S54",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1722'>都市計画図S54</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1722/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.71069378965962,
+    34.46981905594741,
+    135.77598593920902,
+    34.54221467270759
+  ]
+}

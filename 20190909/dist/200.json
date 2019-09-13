@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "タイ",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/200'>タイ</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/200/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.73861041482746,
+    34.97634133580083,
+    135.78047700376928,
+    35.038664771349076
+  ]
+}

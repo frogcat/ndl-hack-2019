@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "新増細見京絵図大全",
+  "description": "GIS day　ワークショップ用",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1646'>新増細見京絵図大全</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1646/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.7171059141015,
+    34.89966975812777,
+    135.7975203141765,
+    35.09788474428026
+  ]
+}

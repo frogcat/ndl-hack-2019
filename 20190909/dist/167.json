@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "はげ",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/167'>はげ</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/167/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.72824192414933,
+    34.95912390453696,
+    135.78328598950293,
+    35.06630199953104
+  ]
+}

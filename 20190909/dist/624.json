@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『桜谷』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 桜谷 【測量時期】 明治40年測図/昭和8年修正 【発行時期】 昭和11年9月発行 【記号】 剣山10号（共11面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/624'>『桜谷』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/624/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    134.20446105625132,
+    33.64940039543577,
+    134.5319112987088,
+    33.859725201656815
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『舞鶴』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 舞鶴 【測量時期】 明治26年測図/大正10年修正/昭和2年鉄道補入 【発行時期】  【記号】 舞鶴要塞近傍5号（共10面） 【測量機関】 参謀本部 【備考】 宮津12号（共12面）　軍事極秘",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/843'>『舞鶴』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/843/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.22080938644766,
+    35.31553516848196,
+    135.5401781979839,
+    35.53326689630335
+  ]
+}

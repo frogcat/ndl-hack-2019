@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "京都市古地図",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/175'>京都市古地図</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/175/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    135.70309579000212,
+    35.00302595777449,
+    135.79299184897775,
+    35.04393046975015
+  ]
+}

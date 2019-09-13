@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『ニセコ』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 狩太　　 【測量時期】 大正6年測圖 【発行時期】  【記号】 岩内八号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1303'>『ニセコ』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1303/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.43401113692306,
+    42.65089060588615,
+    140.80527414953445,
+    42.86234119467462
+  ]
+}

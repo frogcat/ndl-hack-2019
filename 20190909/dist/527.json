@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『土佐清水』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 土佐清水 【測量時期】 明治39年測図/昭和8年修正 【発行時期】 昭和11年1月発行 【記号】 宇和島4号（共13面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/527'>『土佐清水』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/527/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    132.7067683842693,
+    32.64952640261101,
+    133.02768788667967,
+    32.857902402582035
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "7_TANTA",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/3819'>7_TANTA</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/3819/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    30.83258121859684,
+    30.63365139275337,
+    31.47484871109738,
+    31.000516477966894
+  ]
+}

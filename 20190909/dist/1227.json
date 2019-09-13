@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『三戸』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 三戸 【測量時期】 大正3年測圖 【発行時期】 大正6年発行 【記号】 八戸十号 【測量機関】 大日本帝國陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1227'>『三戸』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1227/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.19070389016977,
+    40.317504713264356,
+    141.54287087417805,
+    40.526403348494675
+  ]
+}

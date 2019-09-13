@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『斜里岳』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 斜里岳 【測量時期】 大正13年測図/昭和7年鉄道補入 【発行時期】 昭和8年9月発行 【記号】 斜里6号（共16面） 【測量機関】 大日本帝国陸地測量部 【備考】 仮製版　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1409'>『斜里岳』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1409/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    144.42695858186727,
+    43.649828713428576,
+    144.79988510203586,
+    43.85691474809067
+  ]
+}

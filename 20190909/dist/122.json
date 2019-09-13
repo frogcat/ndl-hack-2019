@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "三田",
+  "description": "",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/122'>三田</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/122/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    134.9483020449554,
+    34.813426963058575,
+    135.27940274218207,
+    35.02999189400901
+  ]
+}

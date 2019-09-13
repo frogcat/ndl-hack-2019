@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『小樽西部』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 小樽西部 【測量時期】 大正5年測圖及測圖之縮圖/昭和10年修正測圖及修正測圖之縮圖 【発行時期】  【記号】 岩内一号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1351'>『小樽西部』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1351/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    140.67532754000152,
+    43.14986032597966,
+    141.04410195899032,
+    43.35807059857934
+  ]
+}

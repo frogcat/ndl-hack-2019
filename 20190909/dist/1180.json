@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『土淵』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 土淵 【測量時期】 大正5年測図 【発行時期】 大正7年7月発行 【記号】 盛岡8号（共18面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1180'>『土淵』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1180/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.43519941717062,
+    39.31183732423476,
+    141.7891489726618,
+    39.53264781152951
+  ]
+}

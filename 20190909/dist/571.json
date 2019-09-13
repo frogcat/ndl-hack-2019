@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『伊予高山』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 伊予高山 【測量時期】 明治37年測図/昭和8年修正/昭和20年部分修正 【発行時期】 昭和23年2月発行 【記号】 宇和島9号（共13面） 【測量機関】 地理調査所 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/571'>『伊予高山』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/571/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    132.21661235909218,
+    33.15090276610237,
+    132.5419369194214,
+    33.360731538355786
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『糸魚川』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 糸魚川 【測量時期】 明治44年測図/昭和5年修正 【発行時期】 昭和8年9月発行 【記号】 富山2号（共11面） 【測量機関】 大日本帝国陸地測量部 【備考】  ",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1032'>『糸魚川』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1032/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    137.69463540849986,
+    36.97931824267772,
+    138.0378849929172,
+    37.1987750701328
+  ]
+}

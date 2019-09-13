@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『一戸』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 一戸 【測量時期】 大正3年測圖/大正14年部分修正測圖 【発行時期】  【記号】 八戸十一号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/1219'>『一戸』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/1219/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    141.18223144617036,
+    40.14591554666372,
+    141.53845091286422,
+    40.363792923626434
+  ]
+}

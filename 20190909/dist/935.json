@@ -1,0 +1,16 @@
+{
+  "tilejson": "2.2.0",
+  "name": "『蓼科山』五万分一地形圖",
+  "description": "Image from the Map Collections courtesy Stanford University Libraries, licensed under a Creative Commons Attribution-Noncommercial 3.0 Unported License. © Stanford University.  【図幅名】 蓼科山 【測量時期】 大正元年測圖/昭和4年要部修正測圖 【発行時期】  【記号】 長野十二号 【測量機関】 参謀本部 【備考】 祕　",
+  "version": "1.0.0",
+  "attribution": "<a href='https://mapwarper.h-gis.jp/maps/935'>『蓼科山』五万分一地形圖</a>",
+  "tiles": [
+    "https://mapwarper.h-gis.jp/maps/tile/935/{z}/{x}/{y}.png"
+  ],
+  "bounds": [
+    138.20705374250664,
+    35.98453921841078,
+    138.52300810144558,
+    36.18931151708205
+  ]
+}
